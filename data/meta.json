@@ -1,0 +1,73 @@
+{
+  "qcm_total": 650,
+  "exams": {
+    "2025": {
+      "label": "نونبر 2025",
+      "count": 60,
+      "file": "exam-2025.json"
+    },
+    "2024-10": {
+      "label": "أكتوبر 2024",
+      "count": 60,
+      "file": "exam-2024-10.json"
+    },
+    "2024-04": {
+      "label": "أبريل 2024",
+      "count": 60,
+      "file": "exam-2024-04.json"
+    },
+    "2024-02": {
+      "label": "فبراير 2024",
+      "count": 54,
+      "file": "exam-2024-02.json"
+    },
+    "2023": {
+      "label": "دورة 2023",
+      "count": 60,
+      "file": "exam-2023.json"
+    },
+    "2022": {
+      "label": "نونبر 2022",
+      "count": 80,
+      "file": "exam-2022.json"
+    },
+    "2019-practice": {
+      "label": "تدريب 2019",
+      "count": 20,
+      "file": "exam-2019-practice.json"
+    },
+    "2018-practice": {
+      "label": "تدريب 2018",
+      "count": 20,
+      "file": "exam-2018-practice.json"
+    },
+    "2018-12-practice": {
+      "label": "تدريب دجنبر 2018",
+      "count": 20,
+      "file": "exam-2018-12-practice.json"
+    },
+    "2017-practice": {
+      "label": "تدريب 2017",
+      "count": 20,
+      "file": "exam-2017-practice.json"
+    }
+  },
+  "docs": [
+    ""
+  ],
+  "levels": {
+    "1": 50,
+    "2": 50,
+    "3": 50,
+    "4": 114,
+    "5": 122,
+    "6": 64,
+    "7": 50,
+    "8": 50,
+    "9": 50,
+    "10": 50
+  },
+  "per_doc": {
+    "": 650
+  }
+}
