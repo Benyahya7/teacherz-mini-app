@@ -207,6 +207,17 @@ function loadProgress(){ try{ return JSON.parse(localStorage.getItem('teacherz_p
 function saveProgress(p){ try{ localStorage.setItem('teacherz_progress', JSON.stringify(p)); }catch(e){} }
 function shuffle(a){ a=a.slice(); for(var i=a.length-1;i>0;i--){ var j=Math.floor(Math.random()*(i+1)); var t=a[i]; a[i]=a[j]; a[j]=t; } return a; }
 function fetchJSON(path){ return fetch(path).then(function(r){ if(!r.ok) throw new Error('load '+path); return r.json(); }); }
+// QCM data is split per document (data/qcm-01.json … qcm-10.json, one
+// file per document) because the single 650-item file is too large to
+// upload through the GitHub CLI argument limit; loadQcm() caches it.
+var QCM_DOC_FILES=['data/qcm-01.json','data/qcm-02.json','data/qcm-03.json','data/qcm-04.json','data/qcm-05.json','data/qcm-06.json','data/qcm-07.json','data/qcm-08.json','data/qcm-09.json','data/qcm-10.json'];
+function loadQcm(){
+  if(QCM) return Promise.resolve(QCM);
+  return Promise.all(QCM_DOC_FILES.map(fetchJSON)).then(function(parts){
+    var all=[]; parts.forEach(function(a){ all=all.concat(a); });
+    QCM=all; return QCM;
+  });
+}
 function sendToBot(payload){
   if (tg && tg.sendData) { tg.sendData(JSON.stringify(payload)); return true; }
   return false;
@@ -246,8 +257,7 @@ function updateQcmCount(){
     document.getElementById('qcm-count').textContent='مباراة '+label+': يوجد '+n+' سؤالا، وسيختار التطبيق 20 منها عشوائيا.';
     return;
   }
-  fetchJSON('data/qcm.json').then(function(q){
-    QCM=q;
+  loadQcm().then(function(q){
     var pool=q.filter(function(x){ return selDoc==='__ALL__'||x.doc===selDoc; });
     var n=pool.length;
     var docName=selDoc==='__ALL__'?'كل المواضيع':(DOC_SHORT[selDoc]||selDoc);
@@ -272,8 +282,7 @@ function startQuiz(kind){
       });
       return;
     }
-    fetchJSON('data/qcm.json').then(function(q){
-      QCM=q;
+    loadQcm().then(function(q){
       var pool=q.filter(function(x){ return selDoc==='__ALL__'||x.doc===selDoc; });
       pool.sort(function(a,b){ return Math.abs(a.level-selLevel)-Math.abs(b.level-selLevel); });
       pool=pool.slice(0,20);
@@ -351,8 +360,7 @@ function sendResult(){
   else { alert('افتح التطبيق من داخل تيليغرام (زر 🌐 افتح التطبيق في البوت) لإرسال النتيجة للبوت. نتيجتك محفوظة في التطبيق.'); }
 }
 function startFlash(){
-  fetchJSON('data/qcm.json').then(function(q){
-    QCM=q;
+  loadQcm().then(function(q){
     flash={items:shuffle(q).slice(0,20), idx:0, known:0, unknown:[], flipped:false};
     go('v-flash'); renderFlash();
   });
