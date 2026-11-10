@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
 <meta name="color-scheme" content="light dark" />
 <meta name="theme-color" content="#0b4f52" />
-<title>Teacherz — تحضير الامتحان المهني</title>
+<title>Teacher — تحضير الامتحان المهني</title>
 <script src="https://telegram.org/js/telegram-web-app.js"></script>
 <style>
 :root{
@@ -90,7 +90,7 @@ textarea{width:100%;min-height:110px;border:1px solid var(--line);border-radius:
 <div class="app" id="app">
   <!-- HOME -->
   <section class="view active" id="v-home">
-    <div class="top"><div><div class="brand">Teacherz</div><div class="tag">تحضير الامتحان المهني للأساتذة</div></div><div class="tag" id="home-user"></div></div>
+    <div class="top"><div><div class="brand">Teacher</div><div class="tag">تحضير الامتحان المهني للأساتذة</div></div><div class="tag" id="home-user"></div></div>
     <div class="hero">
       <span class="pill">650 سؤال QCM · مستويات 1–10</span>
       <h1>درّب، اختبر، انجح في المباراة</h1>
@@ -104,7 +104,7 @@ textarea{width:100%;min-height:110px;border:1px solid var(--line);border-radius:
     <div class="note" id="exam-countdown">📅 امتحان الكفاءة المهنية 2026: السبت 5 دجنبر 2026</div>
     <h2 class="sec">ابدأ الآن</h2>
     <div class="grid">
-      <button class="card" onclick="go('v-qcm')"><div class="ic">📝</div><h3>اختبار QCM</h3><p>20 سؤالا من بنك Teacherz، اختر الوثيقة والمستوى — أو دورة من المباريات السابقة.</p></button>
+      <button class="card" onclick="go('v-qcm')"><div class="ic">📝</div><h3>اختبار QCM</h3><p>20 سؤالا من بنك Teacher، اختر الوثيقة والمستوى — أو دورة من المباريات السابقة.</p></button>
       <button class="card" onclick="go('v-exam')"><div class="ic">🎓</div><h3>اختبار المباراة</h3><p>دورات 2017–2025، 20 سؤالا، النقطة من 20.</p></button>
       <button class="card" onclick="startFlash()"><div class="ic">🗂️</div><h3>بطاقات المراجعة</h3><p>اقلب البطاقة، وقل إن كنت تعرف الجواب أم لا.</p></button>
       <button class="card" onclick="go('v-ask')"><div class="ic">💬</div><h3>اسأل الأستاذ</h3><p>أرسل سؤالك للبوت، ويجيبك من الوثائق مع المصدر.</p></button>
@@ -208,9 +208,10 @@ function saveProgress(p){ try{ localStorage.setItem('teacherz_progress', JSON.st
 function shuffle(a){ a=a.slice(); for(var i=a.length-1;i>0;i--){ var j=Math.floor(Math.random()*(i+1)); var t=a[i]; a[i]=a[j]; a[j]=t; } return a; }
 function fetchJSON(path){ return fetch(path).then(function(r){ if(!r.ok) throw new Error('load '+path); return r.json(); }); }
 // QCM data is split per document (data/qcm-01.json … qcm-10.json, one
-// file per document) because the single 650-item file is too large to
-// upload through the GitHub CLI argument limit; loadQcm() caches it.
-var QCM_DOC_FILES=['data/qcm-01.json','data/qcm-02.json','data/qcm-03.json','data/qcm-04.json','data/qcm-05.json','data/qcm-06.json','data/qcm-07.json','data/qcm-08.json','data/qcm-09.json','data/qcm-10.json'];
+// file per document, with a/b parts where a document exceeds ~90 KB)
+// because a single argv string is capped at 128 KB and the GitHub file
+// upload passes content as one argument; loadQcm() caches it.
+var QCM_DOC_FILES=['data/qcm-01.json','data/qcm-01b.json','data/qcm-02.json','data/qcm-02b.json','data/qcm-03.json','data/qcm-03b.json','data/qcm-04.json','data/qcm-05.json','data/qcm-06.json','data/qcm-06b.json','data/qcm-07.json','data/qcm-07b.json','data/qcm-08.json','data/qcm-08b.json','data/qcm-09.json','data/qcm-09b.json','data/qcm-10.json','data/qcm-10b.json'];
 function loadQcm(){
   if(QCM) return Promise.resolve(QCM);
   return Promise.all(QCM_DOC_FILES.map(fetchJSON)).then(function(parts){
