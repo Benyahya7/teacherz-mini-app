@@ -1,1 +1,1412 @@
-[{"id":"TZ-106","question":"Qui est l'inspecteur pédagogique ayant présenté le document 'Didactique du français au cycle primaire' ?","options":["Ahmed EL KADIRI","Abdellah BENZANNOU","Fatima ZAHRAOUI","Mohamed ALAOUI"],"correct":1,"explanation":"Le document est présenté par l'inspecteur pédagogique Abdellah BENZANNOU, comme indiqué sur la première page.","source":"Didactique du français au cycle primaire - page 1","doc":"Didactique du français au cycle primaire","level":4},{"id":"TZ-107","question":"Selon le document, lequel des critères suivants n'est PAS mentionné comme caractérisant une langue étrangère au Maroc ?","options":["La distance matérielle","La distance économique","La distance linguistique","La distance culturelle"],"correct":1,"explanation":"Les critères mentionnés pour une langue étrangère sont la distance matérielle, culturelle, linguistique et psychologique. La distance économique n'est pas citée.","source":"Didactique du français au cycle primaire - page 10","doc":"Didactique du français au cycle primaire","level":5},{"id":"TZ-108","question":"Combien de compétences principales sont listées dans la section 'LES COMPÉTENCES' ?","options":["Quatre","Cinq","Six","Trois"],"correct":1,"explanation":"Le document liste cinq compétences : Compréhension de l'oral, Production de l'oral, Compréhension de l'écrit, Production de l'écrit, et Activités de langue.","source":"Didactique du français au cycle primaire - page 17","doc":"Didactique du français au cycle primaire","level":4},{"id":"TZ-109","question":"Quel est le profil linguistique général d'un enfant de cinq ans et demi ou six ans entrant en première année du cycle primaire au Maroc, selon le document ?","options":["Un francophone avec des pré-acquis","Un arabophone ou amazighophone sans pré-acquis en français","Un enfant bilingue français-arabe","Un enfant ayant déjà des bases solides en français"],"correct":1,"explanation":"Le profil d'entrée indique que l'enfant est généralement un arabophone ou amazighophone qui ne possède pas actuellement de pré-acquis en français.","source":"Didactique du français au cycle primaire - page 23","doc":"Didactique du français au cycle primaire","level":5},{"id":"TZ-110","question":"En 2ème AEP, quelle est la nature de l'activité 'Copie et dictée' durant les SEM 2 et 4 ?","options":["Uniquement la copie","Uniquement la dictée","La copie et la dictée simultanément","Des exercices écrits"],"correct":1,"explanation":"Dans les Activités Écrites de la 2ème AEP, la section 'Copie et dictée' est dédiée à la copie pour les SEM 1 et 3, et à la dictée pour les SEM 2 et 4.","source":"Didactique du français au cycle primaire - page 28","doc":"Didactique du français au cycle primaire","level":5},{"id":"TZ-111","question":"Quelle est la durée hebdomadaire d'une séance de GRAMMAIRE en 4ème AEP ?","options":["20 minutes","30 minutes","40 minutes","60 minutes"],"correct":1,"explanation":"Le tableau des activités en 4ème AEP indique que la GRAMMAIRE est une séance de 30 minutes par semaine (1s 30’/S).","source":"Didactique du français au cycle primaire - page 36","doc":"Didactique du français au cycle primaire","level":4},{"id":"TZ-112","question":"Combien de minutes sont allouées à l'activité LECTURE par semaine en 4ème AEP ?","options":["60 minutes","80 minutes","100 minutes","120 minutes"],"correct":2,"explanation":"En 4ème AEP, la LECTURE est répartie en quatre séances par semaine pour un total de 100 minutes.","source":"Didactique du français au cycle primaire - page 36","doc":"Didactique du français au cycle primaire","level":5},{"id":"TZ-113","question":"Quels sont les deux éléments clés de la planification annuelle des apprentissages en 5ème AEP mentionnés dans le document ?","options":["Les manuels scolaires et les évaluations","Les thèmes choisis et les projets de classe proposés","Les compétences linguistiques et les objectifs pédagogiques","Les horaires et les ressources didactiques"],"correct":1,"explanation":"La planification annuelle des apprentissages en 5ème AEP est structurée autour des 'thèmes choisis' et des 'projets de classe proposés'.","source":"Didactique du français au cycle primaire - page 43","doc":"Didactique du français au cycle primaire","level":5},{"id":"TZ-114","question":"Dans la phase de 'Production' d'une séance de GRAPHISME, quelle est l'action principale attendue des élèves ?","options":["Observer et découvrir le geste","Tracer les lignes en suivant les pointillés","Réaliser l'activité proposée dans le livret, rubrique « Je produis »","Reformuler la consigne dans leur propre langage"],"correct":2,"explanation":"La phase de 'Production' invite les élèves à réaliser l'activité proposée dans le livret, rubrique « Je produis », et à tracer les lignes en partant d'un point de départ à un point défini.","source":"Didactique du français au cycle primaire - page 50","doc":"Didactique du français au cycle primaire","level":5},{"id":"TZ-115","question":"Lors de la phase de 'Découverte' d'une séance de POÉSIE en 2ème AEP, quelle est l'une des actions de l'enseignant ?","options":["Faire apprendre la deuxième strophe","Faire constater le nombre des strophes","Faire écouter le poème sur le CD","Faire réciter la poésie en entier"],"correct":2,"explanation":"La phase de 'Découverte' inclut l'action de faire écouter le poème sur le CD, de réciter le texte et de vérifier la compréhension.","source":"Didactique du français au cycle primaire - page 54","doc":"Didactique du français au cycle primaire","level":4},{"id":"TZ-116","question":"Dans la phase d''Identification du projet', quelle est une tâche essentielle de l'enseignant ?","options":["Animer la séance de réalisation de la maquette","Traiter les difficultés rencontrées par les élèves","Aider les élèves à former des petits groupes de travail","Faire le bilan du travail réalisé"],"correct":2,"explanation":"La phase d''Identification du projet' implique d'aider les élèves à former des petits groupes de travail, ainsi que d'annoncer et d'expliquer le projet, et de déterminer les modalités de travail.","source":"Didactique du français au cycle primaire - page 58","doc":"Didactique du français au cycle primaire","level":5},{"id":"TZ-117","question":"À quel moment de la séance de COMMUNICATION ORALE en 3ème AEP les hypothèses formulées par les élèves sont-elles validées ?","options":["Pendant la séance 1 : Avant l’écoute","Pendant la séance 2 : Pendant l’écoute","Pendant la séance 3 : Après l’écoute (J’exploite)","Pendant la séance 4 : Après l’écoute (Je réemploie)"],"correct":1,"explanation":"La validation des hypothèses se fait pendant la séance 2 ('Pendant l’écoute'), après avoir fait écouter le dialogue ou le support audio.","source":"Didactique du français au cycle primaire - page 63","doc":"Didactique du français au cycle primaire","level":5},{"id":"TZ-118","question":"Quelle est l'une des activités principales de la 'Séance 1 : avant la lecture' en 4ème AEP ?","options":["Lire le texte à voix haute","Répondre aux questions de compréhension","Commenter les illustrations et formuler une hypothèse de lecture","Faire une lecture magistrale du texte"],"correct":2,"explanation":"La 'Séance 1 : avant la lecture' est dédiée à l'observation/découverte, où les élèves commentent les illustrations et formulent une hypothèse de lecture.","source":"Didactique du français au cycle primaire - page 68","doc":"Didactique du français au cycle primaire","level":4},{"id":"TZ-119","question":"Dans les ACTIVITÉS DE LANGUE en 4ème AEP, à quelle étape la règle syntaxique est-elle formulée ?","options":["Observation et Découverte","Compréhension / Conceptualisation","Application / Transfert","Évaluation / remédiation"],"correct":1,"explanation":"La formulation de la règle syntaxique (conclusion) se fait durant la phase de 'Compréhension / Conceptualisation', après avoir expliqué la notion et proposé des transformations.","source":"Didactique du français au cycle primaire - page 74","doc":"Didactique du français au cycle primaire","level":5},{"id":"TZ-120","question":"Quel est l'objectif principal de la Séance 3 ('Application / Transfert') en PRODUCTION DE L’ÉCRIT pour les 5ème et 6ème AEP ?","options":["Découvrir le sujet de la production","S'assurer de la bonne compréhension du texte","S'entraîner à l'écriture et écrire un texte selon la consigne","Corriger les erreurs identifiées dans les productions"],"correct":2,"explanation":"La Séance 3 ('Application / Transfert') invite les apprenants à réaliser un exercice simple pour s'entraîner à l'écriture et à écrire un texte selon la consigne.","source":"Didactique du français au cycle primaire - page 79","doc":"Didactique du français au cycle primaire","level":6},{"id":"TZ-531","question":"Qui a présenté le document 'Didactique du français au cycle primaire' ?","options":["Abdellah Benzannou","Mohammed Alami","Fatima Zahra","Ahmed Benkirane"],"correct":0,"explanation":"Le document indique explicitement qu'il est présenté par l'inspecteur pédagogique Abdellah Benzannou.","source":"Didactique du français au cycle primaire - page 1","doc":"Didactique du français au cycle primaire","level":1},{"id":"TZ-532","question":"Selon le document, quelle était la langue officielle du régime du protectorat et de ses institutions entre le 30 mars 1912 et le 2 mars 1956 ?","options":["L'arabe","Le français","L'amazighe","L'espagnol"],"correct":1,"explanation":"Le texte mentionne que depuis la signature du traité de Fès jusqu'à l'indépendance, le français était la langue officielle du régime du protectorat.","source":"Didactique du français au cycle primaire - page 13","doc":"Didactique du français au cycle primaire","level":1},{"id":"TZ-533","question":"Quels sont les deux grands volets mentionnés pour la COMMUNICATION ORALE dans le document ?","options":["Lecture et écriture","Compréhension de l'oral et production de l'oral","Grammaire et conjugaison","Poésie et chant"],"correct":1,"explanation":"Le document structure la communication orale en 'Compréhension de l'oral' et 'Production de l'oral'.","source":"Didactique du français au cycle primaire - page 18","doc":"Didactique du français au cycle primaire","level":1},{"id":"TZ-534","question":"Quels éléments composent la planification annuelle des apprentissages en 1ère AEP selon le document ?","options":["Les listes de vocabulaire et les exercices de grammaire","Les thèmes choisis et les projets de classe proposés","Les horaires des cours et les devoirs surveillés","Les manuels scolaires et les guides pédagogiques"],"correct":1,"explanation":"Le document indique que la planification annuelle des apprentissages en 1ère AEP comprend les thèmes choisis et les projets de classe proposés.","source":"Didactique du français au cycle primaire - page 26","doc":"Didactique du français au cycle primaire","level":1},{"id":"TZ-535","question":"Quelles sont les étapes du GRAPHISME listées dans le document ?","options":["Lecture, écriture, dictée, correction","Observation et découverte, Entraînement, Production, Évaluation","Introduction, Développement, Conclusion, Bilan","Écoute, Répétition, Mémorisation, Restitution"],"correct":1,"explanation":"Le document présente les 4 étapes du graphisme : Observation et découverte, Entraînement, Production, Évaluation.","source":"Didactique du français au cycle primaire - page 50","doc":"Didactique du français au cycle primaire","level":1},{"id":"TZ-536","question":"Quelle distinction est établie concernant l'utilisation des langues au sein d'une communauté dans la section sur le statut du français ?","options":["Les langues ont des statuts différents en fonction de leur utilisation par les membres dans leur vie familiale, professionnelle et sociale","Les langues ont toutes le même statut juridique quel que soit leur usage familial ou professionnel","Le statut d'une langue dépend uniquement de son origine géographique et historique","Seules les langues officielles influencent la vie professionnelle des citoyens"],"correct":0,"explanation":"Le texte précise que les langues, en fonction de leur utilisation par les membres d'une communauté dans leur vie familiale, professionnelle et sociale, peuvent avoir des statuts différents.","source":"Didactique du français au cycle primaire - page 8","doc":"Didactique du français au cycle primaire","level":2},{"id":"TZ-537","question":"Quelle nuance historique concernant l'enseignement est soulignée pour la période entourant l'indépendance du Maroc ?","options":["Le français et l'arabe avaient un volume horaire strictement égal dans toutes les écoles","À la veille de l'indépendance, la seule langue d'enseignement ou presque était le français","L'arabe était la seule langue d'enseignement administrative dans toutes les institutions du protectorat","Aucune langue européenne n'était enseignée avant l'indépendance"],"correct":1,"explanation":"Le document indique qu'à la veille de l'indépendance, la seule langue d'enseignement ou presque était le français, et qu'après l'indépendance, l'arabisation est devenue une option politique.","source":"Didactique du français au cycle primaire - page 13","doc":"Didactique du français au cycle primaire","level":2},{"id":"TZ-538","question":"Quelle est la différence fondamentale entre les objectifs de la 'Compréhension de l'oral' et de la 'Production de l'oral' ?","options":["La compréhension concerne l'apprentissage des stratégies d'écoute et de compréhension, tandis que la production concerne l'acquisition des stratégies de prise de parole","La compréhension exige l'utilisation de gestes et de mimiques, alors que la production se limite exclusivement à l'écriture de textes","La compréhension se focalise sur la lecture de textes littéraires, tandis que la production se focalise sur l'écoute radiophonique","Il n'y a aucune différence méthodologique entre les deux volets"],"correct":0,"explanation":"Le document distingue clairement l'apprentissage des stratégies d'écoute et de compréhension d'une part, et l'acquisition des stratégies de prise de parole d'autre part.","source":"Didactique du français au cycle primaire - page 18","doc":"Didactique du français au cycle primaire","level":2},{"id":"TZ-539","question":"Que contiennent les éléments de planification annuelle pour la 2ème AEP selon le document, de la même manière que pour la 1ère AEP ?","options":["Les dictées évaluatives et les leçons de calcul","Les thèmes choisis et les projets de classe proposés","Les listes de chansons et les poèmes obligatoires","Les exercices de lecture rapide et de graphisme avancé"],"correct":1,"explanation":"Le document mentionne pour la 2ème AEP les mêmes éléments de planification annuelle que pour la 1ère AEP : les thèmes choisis et les projets de classe proposés.","source":"Didactique du français au cycle primaire - page 30","doc":"Didactique du français au cycle primaire","level":2},{"id":"TZ-540","question":"Quelle est la distinction principale entre les étapes 4 et 5 du projet de classe en 1ère et 2ème AEP ?","options":["L'étape 4 concerne la réalisation du projet (organiser le travail, finaliser, préparer la présentation), tandis que l'étape 5 concerne la présentation proprement dite avec des acteurs invités","L'étape 4 est réservée à l'évaluation par l'inspecteur, et l'étape 5 à la correction des cahiers","L'étape 4 consiste à observer les images du livret, et l'étape 5 à réciter des poèmes","Il n'y a aucune distinction, les deux étapes se déroulent simultanément lors de la première semaine"],"correct":0,"explanation":"L'étape 4 est dédiée à la réalisation du projet et à l'entraînement à la présentation, tandis que l'étape 5 correspond à l'animation de la séance de présentation avec des acteurs invités.","source":"Didactique du français au cycle primaire - page 52","doc":"Didactique du français au cycle primaire","level":2},{"id":"TZ-541","question":"Comment le document caractérise-t-il le statut du français au Maroc après l'indépendance ?","options":["Il a été totalement abandonné au profit des langues nationales et régionales","Il a conservé un rôle privilégié en tant que première langue étrangère (FLE)","Il est redevenu l'unique langue officielle de l'administration et de l'enseignement supérieur","Il a acquis le statut de seconde langue officielle aux côtés de l'arabe classique"],"correct":0,"explanation":"Bien que l'arabisation soit devenue une option politique, le texte précise que le français a conservé un rôle privilégié en tant que première langue étrangère (FLE).","source":"Didactique du français au cycle primaire - page 13","doc":"Didactique du français au cycle primaire","level":3},{"id":"TZ-542","question":"Quel est l'objectif global visé par les activités de compréhension de l'oral listées dans le document (écouter un conte, des annonces, des instructions) ?","options":["Développer l'apprentissage des stratégies d'écoute et de compréhension chez l'apprenant","Permettre à l'élève de rédiger un compte rendu écrit sans support sonore","Former l'élève à devenir un locuteur natif sans accent étranger","Apprendre à l'élève à traduire simultanément des textes complexes"],"correct":0,"explanation":"Le document regroupe ces activités sous l'intitulé 'Apprentissage des stratégies d'écoute et de compréhension'.","source":"Didactique du français au cycle primaire - page 18","doc":"Didactique du français au cycle primaire","level":3},{"id":"TZ-543","question":"Comment s'articule l'acquisition des compétences de communication orale selon le volet 'Production de l'oral' ?","options":["Par l'utilisation d'un langage approprié, l'expression des besoins communicatifs et l'interaction adéquate avec les interlocuteurs","Par la mémorisation exclusive de règles grammaticales complexes et de listes de vocabulaire","Par la lecture silencieuse de consignes écrites sans aucune interaction verbale","Par la transcription de documents audio sur le cahier de dictée"],"correct":0,"explanation":"Le texte indique que la production de l'oral vise à utiliser un langage approprié (paroles, gestes, mimiques), exprimer ses besoins et interagir adéquatement.","source":"Didactique du français au cycle primaire - page 18","doc":"Didactique du français au cycle primaire","level":3},{"id":"TZ-544","question":"Que signifie l'intégration des notions de langue 'au fur et à mesure de leur apparition dans les supports exploités' ?","options":["Les notions de langue ne sont pas enseignées de manière isolée mais connectées aux besoins et difficultés identifiés dans les activités","L'enseignant doit suivre strictement l'ordre alphabétique du dictionnaire pour enseigner la grammaire","Les élèves étudient toutes les règles de grammaire dès la première semaine de l'année scolaire","L'apprentissage de la langue est totalement indépendant des supports de lecture et de communication"],"correct":0,"explanation":"Le passage indique que les notions apparaissent dans les supports des différents domaines d'activités, en fonction des besoins et des difficultés d'apprentissage identifiés.","source":"Didactique du français au cycle primaire - page 20","doc":"Didactique du français au cycle primaire","level":3},{"id":"TZ-545","question":"Quel est le sens de la consigne et de la formulation attendue des élèves lors de la phase de production en graphisme ?","options":["Les élèves doivent expliciter la consigne avec leurs propres mots, puis réaliser la tâche en partant d'un point précis tout en respectant le sens et l'ampleur de la ligne","Les élèves doivent réciter un poème tout en traçant des cercles sur leur ardoise","Les élèves doivent recopier un texte entier sans utiliser les lignes indicatives","Les élèves doivent corriger les erreurs de leurs camarades au tableau"],"correct":0,"explanation":"Dans la phase de production, l'enseignant explicite la consigne, demande une reformuler par les élèves, et ceux-ci tracent en respectant le sens et l'ampleur en partant du point indiqué.","source":"Didactique du français au cycle primaire - page 50","doc":"Didactique du français au cycle primaire","level":3},{"id":"TZ-546","question":"Un enseignant souhaite évaluer si un élève sait écouter et comprendre un document sonore ou une chanson en classe. D'après le document, quelle démarche relève de la 'Compréhension de l'oral' ?","options":["Proposer l'écoute d'un conte ou d'une comptine pour développer les stratégies d'écoute","Demander à l'élève de réciter par cœur un poème sans support audio","Exiger de l'élève qu'il écrive la dictée du texte sans explication préalable","Inviter l'élève à lire un texte de lecture de manière autonome"],"correct":0,"explanation":"Le document cite explicitement 'Ecouter/comprendre un texte, une chanson, une comptine, un poème, un conte' sous la rubrique de la compréhension de l'oral.","source":"Didactique du français au cycle primaire - page 18","doc":"Didactique du français au cycle primaire","level":4},{"id":"TZ-547","question":"Lors d'une séance de graphisme, un enseignant souhaite appliquer l'étape 'Observation et découverte'. Que doit-il faire concrètement selon le document ?","options":["Amener les élèves à produire le geste convenable et leur demander de passer leurs index sur l'objet d'étude","Demander aux élèves de rédiger un texte narratif complet sur leur cahier de devoir","Inviter les élèves à réciter un dialogue mémorisé en interaction avec un camarade","Organiser une séance de présentation du projet de classe avec des invités"],"correct":0,"explanation":"Le document indique pour l'observation et découverte du graphisme : amener les élèves à produire le geste convenable et demander de passer leurs index sur les objets d'étude.","source":"Didactique du français au cycle primaire - page 50","doc":"Didactique du français au cycle primaire","level":4},{"id":"TZ-548","question":"En 4ème AEP, lors de la séance 1 de communication orale (pendant l'écoute), quelle action précise l'enseignant réalise-t-il ?","options":["Il fait écouter le dialogue deux fois (sur support audio ou en le disant lui-même) et pose des questions pour valider les hypothèses","Il organise une représentation théâtrale du projet de classe dans la cour de l'école","Il demande aux élèves de recopier l'intégralité du texte du livret en écriture cursive","Il évalue la diction des élèves en leur faisant réciter un poème complexe"],"correct":0,"explanation":"Le passage sur la communication orale en 4ème AEP (semaine 1) indique que pendant l'écoute, l'enseignant fait écouter le dialogue deux fois et pose des questions pour valider les hypothèses.","source":"Didactique du français au cycle primaire - page 66","doc":"Didactique du français au cycle primaire","level":4},{"id":"TZ-549","question":"Dans la séance 3 de communication orale (en dehors de la 4ème AEP spécifique), que fait l'enseignant pour favoriser le réemploi et le réinvestissement ?","options":["Il rappelle l'objectif de communication et propose de nouveaux contextes permettant aux apprenants de s'exprimer plus librement","Il se contente de faire relire le même dialogue en silence sans changer de contexte","Il distribue une évaluation écrite notée portant sur les règles d'orthographe lexicale","Il demande aux élèves de fermer leurs livres et d'arrêter toute prise de parole"],"correct":0,"explanation":"Le document précise pour la séance 3 qu'il faut rappeler l'objectif de communication et proposer de nouveaux contextes pour permettre aux apprenants de s'exprimer plus librement.","source":"Didactique du français au cycle primaire - page 55","doc":"Didactique du français au cycle primaire","level":4},{"id":"TZ-550","question":"En 4ème AEP, lors de l'activité d'écriture/copie (activités préparatoires et d'entraînement), quelle action l'enseignant effectue-t-il au tableau ?","options":["Il note un mot contenant la lettre, isole la lettre en minuscule et en majuscule, et présente le tracé sur la trame du cahier reproduite au tableau","Il demande aux élèves de rédiger un poème de trois strophes sans modèle","Il efface toutes les traces écrites pour vérifier la mémoire auditive des élèves","Il corrige individuellement les cahiers de lecture de toute la classe en silence"],"correct":0,"explanation":"Le texte indique que l'enseignant note un mot contenant la lettre, isole la lettre en minuscule et majuscule, et présente le tracé de la lettre au tableau sur la trame du cahier reproduite.","source":"Didactique du français au cycle primaire - page 70","doc":"Didactique du français au cycle primaire","level":4},{"id":"TZ-551","question":"Un enseignant en classe de 4ème AEP aborde la poésie (Séance 1 : Observation et Découverte). Quelle activité initiale doit-il mener avec ses élèves ?","options":["Faire observer l'image qui accompagne le poème, poser des questions anticipatives, puis faire écouter le poème livres fermés","Demander aux élèves de rédiger une dictée évaluative sans écouter le texte au préalable","Faire analyser les règles syntaxiques complexes du texte avant toute lecture","Organiser la présentation finale du projet de classe avec des invités extérieurs"],"correct":0,"explanation":"Le document indique pour la poésie en 4ème AEP (Observation et Découverte) qu'il faut demander d'observer l'image, poser des questions anticipatives et faire écouter le poème les livres fermés.","source":"Didactique du français au cycle primaire - page 73","doc":"Didactique du français au cycle primaire","level":5},{"id":"TZ-552","question":"Lors d'une séance de lecture avec étude de sons, un enseignant remarque que certains élèves rencontrent des difficultés. Quelle pratique pédagogique doit-il appliquer selon le document ?","options":["Procéder à la remédiation et faire des activités autour d'une notion de langue","Ignorer les difficultés et passer immédiatement au chapitre suivant du manuel","Demander aux élèves de réciter un poème en guise de punition","Exiger des élèves qu'ils recopient tout le dictionnaire en écriture cursive"],"correct":0,"explanation":"Le texte précise qu'en cas de difficultés lors de la lecture, il faut procéder à la remédiation et faire des activités autour d'une notion de langue.","source":"Didactique du français au cycle primaire - page 61","doc":"Didactique du français au cycle primaire","level":5},{"id":"TZ-553","question":"Un enseignant prépare la phase d'exécution de l'écriture/copie en 4ème AEP. Que doit-il faire en circulant entre les rangs ?","options":["Rectifier une position ou un geste maladroit tout en faisant réaliser l'activité d'écriture","Noter les notes de fin de trimestre de chaque élève dans le registre officiel","Distribuer de nouveaux manuels de lecture et des cahiers de poésie","Interroger les élèves sur les règles de grammaire de la semaine précédente"],"correct":0,"explanation":"Le document stipule que lors de la phase d'exécution, l'enseignant fait réaliser l'activité et circule entre les rangs pour rectifier une position ou un geste maladroit.","source":"Didactique du français au cycle primaire - page 70","doc":"Didactique du français au cycle primaire","level":5},{"id":"TZ-554","question":"Lors d'une séance de poésie en 5ème et 6ème AEP (Étape 2 : Compréhension), que fait l'enseignant pour l'étude du poème sur la forme ?","options":["Il pose des questions concernant les rimes, le nombre de vers et de strophes","Il demande aux élèves de dessiner une illustration abstraite inspirée par le rythme","Il traduit l'intégralité du poème dans une autre langue étrangère","Il évalue la capacité des élèves à rédiger une dictée de contrôle"],"correct":0,"explanation":"Le document indique que pour l'étude du poème sur la forme en 5ème et 6ème AEP, l'enseignant pose les questions concernant les rimes, le nombre de vers et de strophes.","source":"Didactique du français au cycle primaire - page 80","doc":"Didactique du français au cycle primaire","level":5},{"id":"TZ-555","question":"Dans le cadre de l'évaluation en communication orale (page 77), comment l'enseignant doit-il procéder avec les apprenants ?","options":["Il invite les apprenants à prendre la parole pour s'exprimer, s'assure de la compréhension de la consigne et leur demande de préparer leurs réponses avant de répondre","Il exige un silence absolu et distribue un questionnaire à choix multiples écrit","Il demande aux élèves de recopier le dialogue du livret sans s'exprimer oralement","Il évalue uniquement les élèves qui lèvent la main en ignorant les autres"],"correct":0,"explanation":"Le texte sur l'évaluation indique d'inviter les apprenants à prendre la parole, s'assurer de la compréhension de la consigne, et leur demander de réfléchir avant de répondre et de préparer leurs réponses.","source":"Didactique du français au cycle primaire - page 77","doc":"Didactique du français au cycle primaire","level":5},{"id":"TZ-556","question":"Un enseignant en 4ème AEP aborde la communication orale (semaine 1). Il utilise le poster ou indique la page du livret, puis oriente l'observation des apprenants à l'aide de questions. Quel est l'objectif précis de cette action selon le document ?","options":["Permettre aux apprenants d'anticiper sur l'illustration et de formuler des hypothèses","Leur faire mémoriser le texte par cœur sans l'écouter au préalable","Les obliger à traduire immédiatement le dialogue en langue arabe","Vérifier leur capacité à écrire le dialogue en écriture cursive"],"correct":0,"explanation":"Le document indique que l'enseignant oriente l'observation à l'aide de questions leur permettant d'anticiper sur l'illustration et de formuler des hypothèses.","source":"Didactique du français au cycle primaire - page 66","doc":"Didactique du français au cycle primaire","level":6},{"id":"TZ-557","question":"Durant la séance 3 d'une unité de communication générale, l'enseignant fait un rappel du dialogue précédent puis fait élaborer de nouveaux dialogues sur le même modèle. Quel lien logique cela établit-il avec le contenu lexical et syntaxique ?","options":["Cela permet d'exploiter le contenu lexical et syntaxique du dialogue en vérifiant la mémorisation avant d'élargir la production","Cela sert uniquement à remplir le volume horaire sans lien avec le lexique étudié","Cela remplace la séance de lecture et d'étude de sons obligatoire","Cela oblige l'élève à réciter un poème sans rapport avec le dialogue"],"correct":0,"explanation":"Le document associe la vérification de la mémorisation du dialogue et l'exploitation de son contenu (lexical et syntaxique) à la création de nouveaux dialogues sur le même modèle.","source":"Didactique du français au cycle primaire - page 55","doc":"Didactique du français au cycle primaire","level":6},{"id":"TZ-558","question":"En graphisme, lors de la phase d'entraînement, l'enseignant demande aux élèves de passer leurs index sur l'objet d'étude et d'en suivre les pointillés. En lien avec l'étape de production qui suit, pourquoi cette étape intermédiaire est-elle essentielle ?","options":["Elle prépare le geste cinétique avant d'inviter les élèves à réaliser l'activité dans le livret à la rubrique 'Je produis'","Elle permet de noter les élèves sur leur capacité à réciter des poèmes","Elle sert à évaluer l'orthographe lexicale des mots étudiés en lecture","Elle remplace totalement l'étape d'observation et découverte"],"correct":0,"explanation":"L'entraînement avec l'index et les pointillés (page 50) conduit directement à l'invitation de réaliser l'activité proposée dans le livret, rubrique 'Je produis'.","source":"Didactique du français au cycle primaire - page 50","doc":"Didactique du français au cycle primaire","level":6},{"id":"TZ-559","question":"Dans le cadre de l'apprentissage de la poésie en 4ème AEP, l'enseignant passe de l'étape de compréhension (explication du lexique) à l'étape d'application/transfert. Quelle action combine habilement ces aspects formels ?","options":["Amener les apprenants à découper des mots en syllabes, marquer les pauses, lire en respectant les liaisons et enchaînements, et mémoriser vers par vers","Demander aux élèves de rédiger un texte narratif en prose sans respecter la structure du poème","Faire recopier l'ensemble du dictionnaire en écriture cursive sur le cahier de classe","Organiser un débat contradictoire sur le statut du français au Maroc"],"correct":0,"explanation":"Le document liste pour la poésie (étapes 3 et 4) le découpage en syllabes, le marquage des pauses, le respect des liaisons/enchaînements et la mémorisation vers par vers.","source":"Didactique du français au cycle primaire - page 73","doc":"Didactique du français au cycle primaire","level":6},{"id":"TZ-560","question":"En 5ème et 6ème AEP, lors de la séance de poésie, l'enseignant structure la séance avec l'étude du poème sur le fond puis sur la forme, suivie d'une conceptualisation et d'un soutien. Comment s'articule la conceptualisation/soutien avec l'étude de la forme ?","options":["Elle mobilise les activités de découpage en syllabes, de marquage des pauses, de lecture avec liaisons et de mémorisation vers par vers","Elle consiste à rédiger une dictée notée sur les règles de conjugaison","Elle demande aux élèves de traduire le poème en dialecte local sans se soucier du rythme","Elle annule l'étape d'écoute préalable de l'enregistrement sonore"],"correct":0,"explanation":"Le document associe dans cette phase le découpage en syllabes, le marquage des pauses, la lecture respectant liaisons/enchaînements et la mémorisation vers par vers.","source":"Didactique du français au cycle primaire - page 80","doc":"Didactique du français au cycle primaire","level":6},{"id":"TZ-561","question":"Dans une classe de 4ème AEP, l'enseignant entame la séance 1 de communication orale. Après avoir affiché le poster et posé des questions d'anticipation, il fait écouter le dialogue deux fois et pose des questions pour valider les hypothèses. Un élève propose une hypothèse erronée lors de la phase d'anticipation. Quelle est la meilleure conduite pour l'enseignant selon la méthodologie du document ?","options":["Faire écouter le dialogue pour que l'écoute elle-même permette de valider ou d'infirmer les hypothèses formulées","Gronder l'élève et lui interdire de participer pour le reste de la séance","Ignorer l'hypothèse et donner immédiatement la bonne réponse sans faire écouter le document","Transformer la séance en un cours de graphisme sur les lignes brisées"],"correct":0,"explanation":"La méthode indique que l'enseignant fait écouter le dialogue et pose des questions précisément pour valider les hypothèses formulées lors de l'anticipation.","source":"Didactique du français au cycle primaire - page 66","doc":"Didactique du français au cycle primaire","level":7},{"id":"TZ-562","question":"Un enseignant de graphisme souhaite mener à bien la phase de production avec ses élèves. Un élève trace une ligne en partant d'un point incorrect et en négligeant l'ampleur demandée. En se référant aux consignes du document, quelle intervention corrective l'enseignant doit-il privilégier ?","options":["Rappeler d'expliciter la consigne, de reformuler dans son propre langage et de veiller à respecter le sens et l'ampleur de la ligne en partant du point indiqué","Lui demander de recopier tout un texte de lecture en écriture cursive sur son cahier","Lui faire réciter le poème de la semaine pour corriger son geste graphique","L'isoler au fond de la classe sans lui donner d'explications sur le tracé"],"correct":0,"explanation":"Le document insiste sur le fait de tracer en partant du point de départ indiqué, faire respecter le sens et l'ampleur, expliciter la consigne et demander de la reformuler.","source":"Didactique du français au cycle primaire - page 50","doc":"Didactique du français au cycle primaire","level":7},{"id":"TZ-563","question":"Lors d'une séance d'écriture/copie en 4ème AEP, l'enseignant présente le tracé de la lettre au tableau sur la trame du cahier reproduite. Avant de laisser les élèves exécuter l'exercice sur leur livret, que doit-il faire impérativement selon la méthodologie décrite ?","options":["Inviter les apprenants à s'entraîner d'abord avec le doigt en l'air puis sur l'ardoise, tout en veillant à faire verbaliser les procédures","Leur faire rédiger une dictée complexe sans préparation préalable","Leur demander de réciter le dialogue de communication orale de la semaine précédente","Passer directement à l'évaluation finale du projet de classe"],"correct":0,"explanation":"Le texte indique qu'avant l'exécution, l'enseignant invite les apprenants à s'entraîner avec le doigt en l'air puis sur l'ardoise et veille à faire verbaliser les procédures.","source":"Didactique du français au cycle primaire - page 70","doc":"Didactique du français au cycle primaire","level":7},{"id":"TZ-564","question":"Un enseignant organise la phase de réalisation et de présentation du projet de classe en 1ère ou 2ème AEP (étapes 4 et 5). Il souhaite inviter des acteurs extérieurs. À quel moment précis du déroulement du projet cette action doit-elle intervenir ?","options":["À l'étape 5 (présentation du projet), après avoir organisé le travail, finalisé le projet et animé l'entraînement lors de l'étape 4","Dès la première minute de la première séance de la première semaine de l'année","Pendant la phase de découverte du graphisme avant même de tracer la première ligne","Lors de la séance de remédiation en lecture de syllabes"],"correct":0,"explanation":"Le document place l'invitation d'autres acteurs à assister à l'activité dans l'étape 5 'présentation du projet', qui suit l'étape 4 de réalisation et d'entraînement.","source":"Didactique du français au cycle primaire - page 52","doc":"Didactique du français au cycle primaire","level":7},{"id":"TZ-565","question":"Un enseignant évalue l'expression orale d'un groupe d'élèves en suivant les recommandations de la page 77. Un élève commence à parler précipitamment sans réfléchir et sans comprendre la consigne. Quelle est l'action corrective immédiate recommandée par le texte ?","options":["S'assurer de la compréhension de la consigne et inviter l'apprenant à réfléchir avant de répondre et à préparer ses réponses","Lui attribuer la note éliminatoire sans lui laisser une seconde chance","L'obliger à écrire sa réponse sous forme de dictée sur sa feuille","Ignorer l'élève et passer à l'exercice de poésie"],"correct":0,"explanation":"Le document stipule explicitement qu'il faut s'assurer de la compréhension de la consigne, et inviter les apprenants à réfléchir avant de répondre et à préparer leurs réponses.","source":"Didactique du français au cycle primaire - page 77","doc":"Didactique du français au cycle primaire","level":7},{"id":"TZ-566","question":"Dans une pratique de classe observée, un enseignant enseigne les notions de langue de manière totalement déconnectée des textes et des supports étudiés, en faisant apprendre des listes de règles abstraites hors contexte. En analysant le document (page 20), en quoi cette pratique est-elle erronée ?","options":["Les notions de langue doivent être abordées au fur et à mesure de leur apparition dans les supports exploités dans les différents domaines, selon les besoins et difficultés identifiés","Les notions de langue ne doivent jamais être enseignées à l'école primaire","Elles doivent être exclusivement enseignées en langue arabe et jamais en français","Elles doivent uniquement figurer dans le projet de classe de fin d'année"],"correct":0,"explanation":"Le document précise que les notions de langue apparaissent au fur et à mesure de leur apparition dans les supports exploités dans les différents domaines d'activités, en fonction des besoins et des difficultés identifiés.","source":"Didactique du français au cycle primaire - page 20","doc":"Didactique du français au cycle primaire","level":8},{"id":"TZ-567","question":"Un enseignant de 4ème AEP mène une séance de poésie. Il saute l'étape de l'observation de l'image et des questions anticipatives, et commence directement par faire lire le poème en silence par les élèves. Quelle erreur commet-il par rapport à la démarche méthodologique officielle (page 73) ?","options":["Il omet l'étape essentielle d'Observation et Découverte qui consiste à faire observer l'image, poser des questions anticipatives et faire écouter le poème livres fermés","Il viole les règles de l'écriture cursive sur la trame du cahier","Il oublie d'organiser la présentation du projet de classe avec des invités extérieurs","Il supprime la phase de graphisme indispensable en 1ère AEP"],"correct":0,"explanation":"La démarche officielle (page 73) commence impérativement par l'observation de l'image, les questions anticipatives et l'écoute du poème livres fermés avant la compréhension et la lecture silencieuse.","source":"Didactique du français au cycle primaire - page 73","doc":"Didactique du français au cycle primaire","level":8},{"id":"TZ-568","question":"En comparant l'approche de la communication orale en 4ème AEP (page 66) et la séance 3 générale (page 55), repérez l'élément commun indispensable dans les deux démarches pour favoriser l'expression des élèves.","options":["Le recours à l'écoute de supports ou de dialogues servant de point de départ pour identifier des objectifs de communication ou élaborer de nouveaux contextes","L'obligation de rédiger une dissertation écrite de deux pages en fin de séance","La traduction systématique de tous les énoncés en dialecte local","L'interdiction absolue d'utiliser des images ou des posters en classe"],"correct":0,"explanation":"Les deux démarches reposent sur l'exploitation d'un dialogue ou support initial permettant d'identifier l'objectif de communication et d'amener les apprenants à s'exprimer (via des jeux, des contextes ou des réemplois).","source":"Didactique du français au cycle primaire - page 66","doc":"Didactique du français au cycle primaire","level":8},{"id":"TZ-569","question":"Dans une séance de lecture (page 61), un enseignant se contente de lire les syllabes et les mots sans jamais expliquer les mots difficiles ni procéder à une correction individuelle ou collective en cas de panne de lecture. Quelle est l'analyse correcte de sa pratique au regard du document ?","options":["Sa pratique est incomplète car le document exige l'explication des mots difficiles, la lecture et la compréhension du texte, ainsi qu'une correction collective/individuelle et de la remédiation","Elle est parfaitement conforme puisque la lecture de syllabes se suffit à elle-même","Elle respecte la démarche de graphisme de la page 50","Elle correspond exactement à la phase de présentation du projet de classe"],"correct":0,"explanation":"Le document détaille l'explication des mots difficiles, la lecture et compréhension, la correction collective/individuelle, la remédiation et les activités autour de la langue.","source":"Didactique du français au cycle primaire - page 61","doc":"Didactique du français au cycle primaire","level":8},{"id":"TZ-570","question":"Un enseignant analyse l'évolution historique du statut du français au Maroc telle qu'exposée dans le document (pages 8 à 13). Lequel des énoncés suivants synthétise correctement le passage du protectorat à la période post-indépendance ?","options":["Le français, langue officielle unique sous le protectorat et quasi-exclusive dans l'enseignement à la veille de l'indépendance, a vu l'arabisation s'affirmer comme option politique tout en maintenant un rôle privilégié de première langue étrangère","Le français a été totalement interdit par la loi dès le lendemain du traité de Fès en 1912","L'arabe était la seule langue d'enseignement sous le protectorat et le français est devenu langue officielle uniquement en 2000","Le statut du français n'a subi aucun changement politique ou institutionnel depuis 1912"],"correct":0,"explanation":"Le texte indique clairement le statut de langue officielle sous le protectorat, quasi-exclusivité de l'enseignement à l'indépendance, puis option politique d'arabisation après l'indépendance tout en conservant le rôle de première langue étrangère.","source":"Didactique du français au cycle primaire - page 13","doc":"Didactique du français au cycle primaire","level":8},{"id":"TZ-571","question":"Un enseignant gère une séance d'écriture/copie en 4ème AEP. Il applique les activités préparatoires (trouver un mot, isoler la lettre minuscule/majuscule au tableau, rappeler l'écriture cursive et la différence entre ligne et interligne). Un élève s'entraîne directement sur son cahier sans passer par l'entraînement sur l'ardoise ou avec le doigt en l'air, et présente un tracé très maladroit. En analysant la méthode (page 70), quelle étape préalable a été court-circuitée et comment y remédier ?","options":["L'entraînement avec le doigt en l'air puis sur l'ardoise avec verbalisation des procédures a été omis ; il faut y repasser et circuler entre les rangs pour rectifier le geste","Il faut immédiatement sanctionner l'élève par une dictée punitive sans explication","Il faut remplacer l'écriture par une séance de chant poétique","Il faut ignorer le geste maladroit car l'écriture s'apprend sans intervention de l'enseignant"],"correct":0,"explanation":"Le document prescrit l'entraînement avec le doigt en l'air puis sur l'ardoise en veillant à faire verbaliser les procédures avant l'exécution sur le cahier et la rectification des gestes maladroits.","source":"Didactique du français au cycle primaire - page 70","doc":"Didactique du français au cycle primaire","level":9},{"id":"TZ-572","question":"En analysant conjointement la démarche de la poésie en 4ème AEP (page 73) et celle en 5ème/6ème AEP (page 80), un enseignant chevronné remarque une nuance structurelle dans la progression. Laquelle ?","options":["En 5ème/6ème AEP, l'étude du poème est explicitement scindée en deux axes distincts ('Sur le fond' avec lecture silencieuse/compréhension, et 'Sur la forme' avec rimes, vers et strophes), précédant la conceptualisation/soutien","En 4ème AEP, la poésie ne comporte aucune étape d'écoute ni d'observation d'image","En 5ème/6ème AEP, il est interdit de faire mémoriser le poème vers par vers","Il n'y a aucune différence méthodologique entre les deux cycles concernant la poésie"],"correct":0,"explanation":"La page 80 pour les 5ème et 6ème AEP détaille explicitement l'étude du poème 'Sur le fond' et 'Sur la forme' (rimes, vers, strophes) avant la conceptualisation et le soutien, contrairement à la présentation plus unifiée de la page 73.","source":"Didactique du français au cycle primaire - page 80","doc":"Didactique du français au cycle primaire","level":9},{"id":"TZ-573","question":"Dans le cadre de l'évaluation orale (page 77) combinée aux principes de production de l'oral (page 18), un enseignant évalue un élève qui s'exprime avec un vocabulaire pauvre, sans aucun geste ni mimique, et incapable d'interagir adéquatement avec ses pairs. En croisant les exigences du document, quel diagnostic et quelle action corrective doit formuler l'enseignant ?","options":["L'élève ne maîtrise pas les stratégies de prise de parole ; il faut l'amener à utiliser un langage approprié (paroles, gestes, mimiques), exprimer ses besoins et réinvestir les contextes d'échanges","L'élève a atteint le profil de sortie de la 6ème année, il faut donc le dispenser de toute évaluation orale ultérieure","L'élève doit être orienté vers un exercice exclusif de graphisme et de copie de lettres majuscules","L'élève applique parfaitement les règles de la poésie sur la forme"],"correct":0,"explanation":"Le document relie l'utilisation d'un langage approprié (paroles, gestes, mimiques), l' expression des besoins et l'interaction adéquate aux compétences de production de l'oral et d'évaluation.","source":"Didactique du français au cycle primaire - page 77","doc":"Didactique du français au cycle primaire","level":9},{"id":"TZ-574","question":"Un enseignant souhaite concevoir une séquence d'apprentissage pluridisciplinaire en s'appuyant sur les orientations du document. Il hésite entre introduire une notion de langue de manière isolée au début du trimestre ou l'intégrer lors de l'exploitation des supports de lecture et de communication. En analysant la page 20 et les démarches méthodologiques, quel choix rigoureux s'impose ?","options":["Intégrer la notion au fur et à mesure de son apparition dans les supports exploités dans les différents domaines, en fonction des besoins et des difficultés d'apprentissage identifiés","L'isoler totalement pour que les élèves l'apprennent par cœur sans lien avec les textes lus","La réserver exclusivement pour la séance de présentation du projet de classe avec des invités","La supprimer car le document interdit l'enseignement des notions de langue"],"correct":0,"explanation":"Le texte de la page 20 stipule clairement que les notions de langue sont vues au fur et à mesure de leur apparition dans les supports des différents domaines, selon les besoins et difficultés identifiés.","source":"Didactique du français au cycle primaire - page 20","doc":"Didactique du français au cycle primaire","level":9},{"id":"TZ-575","question":"En analysant la cohérence systémique entre les profils d'entrée/sortie (pages 35, 40) et les activités de communication orale (page 18) et de lecture/remédiation (page 61), déterminez quelle interaction est exigée pour garantir la maîtrise des énoncés simples et des textes courts.","options":["La mobilisation conjointe des savoirs, savoir-faire et savoir-être à travers l'écoute, la prise de parole, la lecture de syllabes/mots/textes et la remédiation en cas de difficulté","La mémorisation passive de listes de vocabulaire sans pratique orale ni lecture","L'annulation de toute activité de lecture au profit de l'écriture exclusive en majuscules","La restriction de l'enseignement aux seuls aspects historiques du protectorat"],"correct":0,"explanation":"Le profil d'entrée/sortie exige la mobilisation des savoirs, savoir-faire et savoir-être dans des situations de communication, ce qui relie directement les stratégies d'écoute/production (p. 18) et la lecture/remédiation (p. 61).","source":"Didactique du français au cycle primaire - page 35","doc":"Didactique du français au cycle primaire","level":10},{"id":"TZ-576","question":"Un auditeur critique prétend que les étapes de réalisation et de présentation du projet de classe (pages 52, 58) sont indépendantes des apprentissages disciplinaires quotidiens (communication orale, lecture, poésie). En croisant les passages du document, comment réfuter rigoureusement cette allégation ?","options":["Le projet de classe (planifié annuellement aux côtés des thèmes) mobilise précisément les ressources lexicales, syntaxiques et discursives travaillées dans les disciplines (communication, lecture, poésie) à travers l'organisation, la finalisation et la présentation publique","Le projet de classe est une activité extra-scolaire sans aucun lien avec les programmes de français","Les projets de classe remplacent uniquement les leçons de mathématiques","Le document indique que le projet se réalise entièrement en une seule minute sans préparation"],"correct":0,"explanation":"Le projet de classe s'intègre dans la planification annuelle (p. 26, 30) et mobilise l'organisation, la finalisation, l'entraînement et la présentation (p. 52, 58), servant de point de convergence aux apprentissages.","source":"Didactique du français au cycle primaire - page 52","doc":"Didactique du français au cycle primaire","level":10},{"id":"TZ-577","question":"Considérez l'ensemble des démarches méthodologiques décrites pour la communication orale (p. 55, 66), la lecture (p. 61), l'écriture (p. 70) et la poésie (p. 73, 80). Quel principe méthodologique transversal sous-tend toutes ces démarches selon la structure du document d'Abdellah Benzannou ?","options":["Une progression structurée en étapes successives (observation/découverte, entraînement/compréhension, application/transfert, évaluation/remédiation) guidée par l'enseignant","Un apprentissage anarchique basé uniquement sur l'intuition de l'élève sans intervention de l'enseignant","Une évaluation sommative unique en fin de cycle sans exercices préparatoires","L'obligation absolue d'utiliser exclusivement des supports radiophoniques sans manuels"],"correct":0,"explanation":"L'analyse globale du document montre une structuration constante des démarches méthodologiques en phases progressives (découverte, compréhension, application, évaluation/remédiation) pilotées par l'enseignant.","source":"Didactique du français au cycle primaire - page 45","doc":"Didactique du français au cycle primaire","level":10},{"id":"TZ-578","question":"Dans le cadre de l'enseignement du graphisme en première année du cycle primaire au Maroc (page 50), un enseignant s'apprête à faire réaliser l'activité de la rubrique \"Je produis\". En se référant strictement aux consignes et étapes décrites pour la phase de production, laquelle des actions suivantes l'enseignant doit-il obligatoirement mener avant ou pendant la traçabilité par l'élève ?","options":["Il demande immédiatement aux élèves de tracer les lignes en suivant les pointillés sans expliciter la consigne pour favoriser l'autonomie.","Il explicite la consigne en disant \"tracer des lignes ...\", demande aux élèves de la reformuler dans leur propre langage, et veille à ce que les élèves tracent les lignes en partant du point de départ indiqué vers un point défini tout en respectant le sens et l'ampleur.","Il invite les élèves à passer uniquement leurs index sur les objets d'étude sans exiger le respect du point de départ.","Il demande aux élèves de s'entraîner uniquement sur l'ardoise en ignorant la rubrique \"Je produis\" du livret."],"correct":1,"explanation":"Selon la page 50 du document (section Graphisme, étape 3 Production), l'enseignant doit expliciter la consigne («tracer des lignes ...»), demander aux élèves de la reformuler dans leur propre langage, inciter les élèves à réaliser la tâche en utilisant les lignes objet d'étude, tracer les lignes en","source":"Didactique du français au cycle primaire - page 50","doc":"Didactique du français au cycle primaire","level":9},{"id":"TZ-579","question":"En analysant conjointement les démarches méthodologiques de la poésie en 4ème AEP (page 73) et en 5ème et 6ème AEP (page 80), quelle distinction structurelle majeure apparaît dans la progression de l'étude du poème entre ces niveaux ?","options":["En 4ème AEP, l'étude du poème ne comporte aucune étape de compréhension globale, contrairement à la 5ème et 6ème AEP.","En 5ème et 6ème AEP, l'étape 2 (Compréhension / Séance 1) formalise explicitement une distinction méthodologique en deux temps distincts : l'étude du poème sur le fond (lecture silencieuse et vérification de la compréhension) suivie de l'étude du poème sur la forme (rimes, vers, strophes, liaisons, enchaînements et mémorisation), alors qu'en 4ème AEP ces aspects sont imbriqués sans cette division formelle en sous-rubriques d'analyse du fond et de la forme.","En 5ème et 6ème AEP, l'observation et la découverte sont totalement supprimées au profit d'une récitation immédiate.","En 4ème AEP, l'évaluation et le soutien interviennent avant la phase d'observation et découverte."],"correct":1,"explanation":"En comparant la page 73 (4ème AEP POÉSIE) et la page 80 (5ème et 6ème AEP LECTURE DICTION), on observe qu'en 5ème et 6ème AEP, l'étape 2 / Séance 1 sépare clairement l'étude du poème « Sur le fond » (lecture silencieuse, questions de compréhension) et « Sur la forme » (rimes, nombre de vers, strophe","source":"Didactique du français au cycle primaire - page 80","doc":"Didactique du français au cycle primaire","level":10},{"id":"TZ-580","question":"En croisant les exigences méthodologiques de la communication orale en 4ème AEP (page 66) et les consignes d'évaluation de la communication orale (page 77), un enseignant souhaite évaluer la capacité d'un groupe d'élèves à l'issue de la première semaine. Quelle combinaison d'actions l'enseignant doit-il rigoureusement orchestrer pour valider la démarche d'apprentissage et d'évaluation ?","options":["Il fait écouter le dialogue deux fois pour valider les hypothèses émises lors de l'anticipation, puis lors de la phase d'évaluation, il invite les apprenants à prendre la parole après s'être assuré de la compréhension de la consigne et en les incitant à réfléchir et préparer leurs réponses avant de s'auto-évaluer.","Il demande aux élèves de réciter par cœur le dialogue sans vérifier leur compréhension préalable des consignes ni les laisser réfléchir.","Il évalue les élèves uniquement sur leur capacité à écouter un document sonore sans jamais leur donner la parole pour s'exprimer ou s'auto-évaluer.","Il se contente d'afficher le poster et d'interrompre l'écoute dès la première minute pour procéder directement à une notation chiffrée sans retour réflexif."],"correct":0,"explanation":"La page 66 indique qu'en 4ème AEP (séance 1, pendant l'écoute), l'enseignant fait écouter le dialogue deux fois et pose des questions pour valider les hypothèses. Par ailleurs, la page 77 (Évaluation) précise qu'il faut inviter les apprenants à prendre la parole, s'assurer de la compréhension de la","source":"Didactique du français au cycle primaire - page 77","doc":"Didactique du français au cycle primaire","level":10}]
+[
+  {
+    "id": "TZ-106",
+    "question": "Qui est l'inspecteur pédagogique ayant présenté le document 'Didactique du français au cycle primaire' ?",
+    "options": [
+      "Ahmed EL KADIRI",
+      "Abdellah BENZANNOU",
+      "Fatima ZAHRAOUI",
+      "Mohamed ALAOUI"
+    ],
+    "correct": 1,
+    "explanation": "Le document est présenté par l'inspecteur pédagogique Abdellah BENZANNOU, comme indiqué sur la première page.",
+    "source": "Didactique du français au cycle primaire - page 1",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 4
+  },
+  {
+    "id": "TZ-107",
+    "question": "Selon le document, lequel des critères suivants n'est PAS mentionné comme caractérisant une langue étrangère au Maroc ?",
+    "options": [
+      "La distance matérielle",
+      "La distance économique",
+      "La distance linguistique",
+      "La distance culturelle"
+    ],
+    "correct": 1,
+    "explanation": "Les critères mentionnés pour une langue étrangère sont la distance matérielle, culturelle, linguistique et psychologique. La distance économique n'est pas citée.",
+    "source": "Didactique du français au cycle primaire - page 10",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 5
+  },
+  {
+    "id": "TZ-108",
+    "question": "Combien de compétences principales sont listées dans la section 'LES COMPÉTENCES' ?",
+    "options": [
+      "Quatre",
+      "Cinq",
+      "Six",
+      "Trois"
+    ],
+    "correct": 1,
+    "explanation": "Le document liste cinq compétences : Compréhension de l'oral, Production de l'oral, Compréhension de l'écrit, Production de l'écrit, et Activités de langue.",
+    "source": "Didactique du français au cycle primaire - page 17",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 4
+  },
+  {
+    "id": "TZ-109",
+    "question": "Quel est le profil linguistique général d'un enfant de cinq ans et demi ou six ans entrant en première année du cycle primaire au Maroc, selon le document ?",
+    "options": [
+      "Un francophone avec des pré-acquis",
+      "Un arabophone ou amazighophone sans pré-acquis en français",
+      "Un enfant bilingue français-arabe",
+      "Un enfant ayant déjà des bases solides en français"
+    ],
+    "correct": 1,
+    "explanation": "Le profil d'entrée indique que l'enfant est généralement un arabophone ou amazighophone qui ne possède pas actuellement de pré-acquis en français.",
+    "source": "Didactique du français au cycle primaire - page 23",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 5
+  },
+  {
+    "id": "TZ-110",
+    "question": "En 2ème AEP, quelle est la nature de l'activité 'Copie et dictée' durant les SEM 2 et 4 ?",
+    "options": [
+      "Uniquement la copie",
+      "Uniquement la dictée",
+      "La copie et la dictée simultanément",
+      "Des exercices écrits"
+    ],
+    "correct": 1,
+    "explanation": "Dans les Activités Écrites de la 2ème AEP, la section 'Copie et dictée' est dédiée à la copie pour les SEM 1 et 3, et à la dictée pour les SEM 2 et 4.",
+    "source": "Didactique du français au cycle primaire - page 28",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 5
+  },
+  {
+    "id": "TZ-111",
+    "question": "Quelle est la durée hebdomadaire d'une séance de GRAMMAIRE en 4ème AEP ?",
+    "options": [
+      "20 minutes",
+      "30 minutes",
+      "40 minutes",
+      "60 minutes"
+    ],
+    "correct": 1,
+    "explanation": "Le tableau des activités en 4ème AEP indique que la GRAMMAIRE est une séance de 30 minutes par semaine (1s 30’/S).",
+    "source": "Didactique du français au cycle primaire - page 36",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 4
+  },
+  {
+    "id": "TZ-112",
+    "question": "Combien de minutes sont allouées à l'activité LECTURE par semaine en 4ème AEP ?",
+    "options": [
+      "60 minutes",
+      "80 minutes",
+      "100 minutes",
+      "120 minutes"
+    ],
+    "correct": 2,
+    "explanation": "En 4ème AEP, la LECTURE est répartie en quatre séances par semaine pour un total de 100 minutes.",
+    "source": "Didactique du français au cycle primaire - page 36",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 5
+  },
+  {
+    "id": "TZ-113",
+    "question": "Quels sont les deux éléments clés de la planification annuelle des apprentissages en 5ème AEP mentionnés dans le document ?",
+    "options": [
+      "Les manuels scolaires et les évaluations",
+      "Les thèmes choisis et les projets de classe proposés",
+      "Les compétences linguistiques et les objectifs pédagogiques",
+      "Les horaires et les ressources didactiques"
+    ],
+    "correct": 1,
+    "explanation": "La planification annuelle des apprentissages en 5ème AEP est structurée autour des 'thèmes choisis' et des 'projets de classe proposés'.",
+    "source": "Didactique du français au cycle primaire - page 43",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 5
+  },
+  {
+    "id": "TZ-114",
+    "question": "Dans la phase de 'Production' d'une séance de GRAPHISME, quelle est l'action principale attendue des élèves ?",
+    "options": [
+      "Observer et découvrir le geste",
+      "Tracer les lignes en suivant les pointillés",
+      "Réaliser l'activité proposée dans le livret, rubrique « Je produis »",
+      "Reformuler la consigne dans leur propre langage"
+    ],
+    "correct": 2,
+    "explanation": "La phase de 'Production' invite les élèves à réaliser l'activité proposée dans le livret, rubrique « Je produis », et à tracer les lignes en partant d'un point de départ à un point défini.",
+    "source": "Didactique du français au cycle primaire - page 50",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 5
+  },
+  {
+    "id": "TZ-115",
+    "question": "Lors de la phase de 'Découverte' d'une séance de POÉSIE en 2ème AEP, quelle est l'une des actions de l'enseignant ?",
+    "options": [
+      "Faire apprendre la deuxième strophe",
+      "Faire constater le nombre des strophes",
+      "Faire écouter le poème sur le CD",
+      "Faire réciter la poésie en entier"
+    ],
+    "correct": 2,
+    "explanation": "La phase de 'Découverte' inclut l'action de faire écouter le poème sur le CD, de réciter le texte et de vérifier la compréhension.",
+    "source": "Didactique du français au cycle primaire - page 54",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 4
+  },
+  {
+    "id": "TZ-116",
+    "question": "Dans la phase d''Identification du projet', quelle est une tâche essentielle de l'enseignant ?",
+    "options": [
+      "Animer la séance de réalisation de la maquette",
+      "Traiter les difficultés rencontrées par les élèves",
+      "Aider les élèves à former des petits groupes de travail",
+      "Faire le bilan du travail réalisé"
+    ],
+    "correct": 2,
+    "explanation": "La phase d''Identification du projet' implique d'aider les élèves à former des petits groupes de travail, ainsi que d'annoncer et d'expliquer le projet, et de déterminer les modalités de travail.",
+    "source": "Didactique du français au cycle primaire - page 58",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 5
+  },
+  {
+    "id": "TZ-117",
+    "question": "À quel moment de la séance de COMMUNICATION ORALE en 3ème AEP les hypothèses formulées par les élèves sont-elles validées ?",
+    "options": [
+      "Pendant la séance 1 : Avant l’écoute",
+      "Pendant la séance 2 : Pendant l’écoute",
+      "Pendant la séance 3 : Après l’écoute (J’exploite)",
+      "Pendant la séance 4 : Après l’écoute (Je réemploie)"
+    ],
+    "correct": 1,
+    "explanation": "La validation des hypothèses se fait pendant la séance 2 ('Pendant l’écoute'), après avoir fait écouter le dialogue ou le support audio.",
+    "source": "Didactique du français au cycle primaire - page 63",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 5
+  },
+  {
+    "id": "TZ-118",
+    "question": "Quelle est l'une des activités principales de la 'Séance 1 : avant la lecture' en 4ème AEP ?",
+    "options": [
+      "Lire le texte à voix haute",
+      "Répondre aux questions de compréhension",
+      "Commenter les illustrations et formuler une hypothèse de lecture",
+      "Faire une lecture magistrale du texte"
+    ],
+    "correct": 2,
+    "explanation": "La 'Séance 1 : avant la lecture' est dédiée à l'observation/découverte, où les élèves commentent les illustrations et formulent une hypothèse de lecture.",
+    "source": "Didactique du français au cycle primaire - page 68",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 4
+  },
+  {
+    "id": "TZ-119",
+    "question": "Dans les ACTIVITÉS DE LANGUE en 4ème AEP, à quelle étape la règle syntaxique est-elle formulée ?",
+    "options": [
+      "Observation et Découverte",
+      "Compréhension / Conceptualisation",
+      "Application / Transfert",
+      "Évaluation / remédiation"
+    ],
+    "correct": 1,
+    "explanation": "La formulation de la règle syntaxique (conclusion) se fait durant la phase de 'Compréhension / Conceptualisation', après avoir expliqué la notion et proposé des transformations.",
+    "source": "Didactique du français au cycle primaire - page 74",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 5
+  },
+  {
+    "id": "TZ-120",
+    "question": "Quel est l'objectif principal de la Séance 3 ('Application / Transfert') en PRODUCTION DE L’ÉCRIT pour les 5ème et 6ème AEP ?",
+    "options": [
+      "Découvrir le sujet de la production",
+      "S'assurer de la bonne compréhension du texte",
+      "S'entraîner à l'écriture et écrire un texte selon la consigne",
+      "Corriger les erreurs identifiées dans les productions"
+    ],
+    "correct": 2,
+    "explanation": "La Séance 3 ('Application / Transfert') invite les apprenants à réaliser un exercice simple pour s'entraîner à l'écriture et à écrire un texte selon la consigne.",
+    "source": "Didactique du français au cycle primaire - page 79",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 6
+  },
+  {
+    "id": "TZ-531",
+    "question": "Qui a présenté le document 'Didactique du français au cycle primaire' ?",
+    "options": [
+      "Abdellah Benzannou",
+      "Mohammed Alami",
+      "Fatima Zahra",
+      "Ahmed Benkirane"
+    ],
+    "correct": 0,
+    "explanation": "Le document indique explicitement qu'il est présenté par l'inspecteur pédagogique Abdellah Benzannou.",
+    "source": "Didactique du français au cycle primaire - page 1",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 1
+  },
+  {
+    "id": "TZ-532",
+    "question": "Selon le document, quelle était la langue officielle du régime du protectorat et de ses institutions entre le 30 mars 1912 et le 2 mars 1956 ?",
+    "options": [
+      "L'arabe",
+      "Le français",
+      "L'amazighe",
+      "L'espagnol"
+    ],
+    "correct": 1,
+    "explanation": "Le texte mentionne que depuis la signature du traité de Fès jusqu'à l'indépendance, le français était la langue officielle du régime du protectorat.",
+    "source": "Didactique du français au cycle primaire - page 13",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 1
+  },
+  {
+    "id": "TZ-533",
+    "question": "Quels sont les deux grands volets mentionnés pour la COMMUNICATION ORALE dans le document ?",
+    "options": [
+      "Lecture et écriture",
+      "Compréhension de l'oral et production de l'oral",
+      "Grammaire et conjugaison",
+      "Poésie et chant"
+    ],
+    "correct": 1,
+    "explanation": "Le document structure la communication orale en 'Compréhension de l'oral' et 'Production de l'oral'.",
+    "source": "Didactique du français au cycle primaire - page 18",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 1
+  },
+  {
+    "id": "TZ-534",
+    "question": "Quels éléments composent la planification annuelle des apprentissages en 1ère AEP selon le document ?",
+    "options": [
+      "Les listes de vocabulaire et les exercices de grammaire",
+      "Les thèmes choisis et les projets de classe proposés",
+      "Les horaires des cours et les devoirs surveillés",
+      "Les manuels scolaires et les guides pédagogiques"
+    ],
+    "correct": 1,
+    "explanation": "Le document indique que la planification annuelle des apprentissages en 1ère AEP comprend les thèmes choisis et les projets de classe proposés.",
+    "source": "Didactique du français au cycle primaire - page 26",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 1
+  },
+  {
+    "id": "TZ-535",
+    "question": "Quelles sont les étapes du GRAPHISME listées dans le document ?",
+    "options": [
+      "Lecture, écriture, dictée, correction",
+      "Observation et découverte, Entraînement, Production, Évaluation",
+      "Introduction, Développement, Conclusion, Bilan",
+      "Écoute, Répétition, Mémorisation, Restitution"
+    ],
+    "correct": 1,
+    "explanation": "Le document présente les 4 étapes du graphisme : Observation et découverte, Entraînement, Production, Évaluation.",
+    "source": "Didactique du français au cycle primaire - page 50",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 1
+  },
+  {
+    "id": "TZ-536",
+    "question": "Quelle distinction est établie concernant l'utilisation des langues au sein d'une communauté dans la section sur le statut du français ?",
+    "options": [
+      "Les langues ont des statuts différents en fonction de leur utilisation par les membres dans leur vie familiale, professionnelle et sociale",
+      "Les langues ont toutes le même statut juridique quel que soit leur usage familial ou professionnel",
+      "Le statut d'une langue dépend uniquement de son origine géographique et historique",
+      "Seules les langues officielles influencent la vie professionnelle des citoyens"
+    ],
+    "correct": 0,
+    "explanation": "Le texte précise que les langues, en fonction de leur utilisation par les membres d'une communauté dans leur vie familiale, professionnelle et sociale, peuvent avoir des statuts différents.",
+    "source": "Didactique du français au cycle primaire - page 8",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 2
+  },
+  {
+    "id": "TZ-537",
+    "question": "Quelle nuance historique concernant l'enseignement est soulignée pour la période entourant l'indépendance du Maroc ?",
+    "options": [
+      "Le français et l'arabe avaient un volume horaire strictement égal dans toutes les écoles",
+      "À la veille de l'indépendance, la seule langue d'enseignement ou presque était le français",
+      "L'arabe était la seule langue d'enseignement administrative dans toutes les institutions du protectorat",
+      "Aucune langue européenne n'était enseignée avant l'indépendance"
+    ],
+    "correct": 1,
+    "explanation": "Le document indique qu'à la veille de l'indépendance, la seule langue d'enseignement ou presque était le français, et qu'après l'indépendance, l'arabisation est devenue une option politique.",
+    "source": "Didactique du français au cycle primaire - page 13",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 2
+  },
+  {
+    "id": "TZ-538",
+    "question": "Quelle est la différence fondamentale entre les objectifs de la 'Compréhension de l'oral' et de la 'Production de l'oral' ?",
+    "options": [
+      "La compréhension concerne l'apprentissage des stratégies d'écoute et de compréhension, tandis que la production concerne l'acquisition des stratégies de prise de parole",
+      "La compréhension exige l'utilisation de gestes et de mimiques, alors que la production se limite exclusivement à l'écriture de textes",
+      "La compréhension se focalise sur la lecture de textes littéraires, tandis que la production se focalise sur l'écoute radiophonique",
+      "Il n'y a aucune différence méthodologique entre les deux volets"
+    ],
+    "correct": 0,
+    "explanation": "Le document distingue clairement l'apprentissage des stratégies d'écoute et de compréhension d'une part, et l'acquisition des stratégies de prise de parole d'autre part.",
+    "source": "Didactique du français au cycle primaire - page 18",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 2
+  },
+  {
+    "id": "TZ-539",
+    "question": "Que contiennent les éléments de planification annuelle pour la 2ème AEP selon le document, de la même manière que pour la 1ère AEP ?",
+    "options": [
+      "Les dictées évaluatives et les leçons de calcul",
+      "Les thèmes choisis et les projets de classe proposés",
+      "Les listes de chansons et les poèmes obligatoires",
+      "Les exercices de lecture rapide et de graphisme avancé"
+    ],
+    "correct": 1,
+    "explanation": "Le document mentionne pour la 2ème AEP les mêmes éléments de planification annuelle que pour la 1ère AEP : les thèmes choisis et les projets de classe proposés.",
+    "source": "Didactique du français au cycle primaire - page 30",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 2
+  },
+  {
+    "id": "TZ-540",
+    "question": "Quelle est la distinction principale entre les étapes 4 et 5 du projet de classe en 1ère et 2ème AEP ?",
+    "options": [
+      "L'étape 4 concerne la réalisation du projet (organiser le travail, finaliser, préparer la présentation), tandis que l'étape 5 concerne la présentation proprement dite avec des acteurs invités",
+      "L'étape 4 est réservée à l'évaluation par l'inspecteur, et l'étape 5 à la correction des cahiers",
+      "L'étape 4 consiste à observer les images du livret, et l'étape 5 à réciter des poèmes",
+      "Il n'y a aucune distinction, les deux étapes se déroulent simultanément lors de la première semaine"
+    ],
+    "correct": 0,
+    "explanation": "L'étape 4 est dédiée à la réalisation du projet et à l'entraînement à la présentation, tandis que l'étape 5 correspond à l'animation de la séance de présentation avec des acteurs invités.",
+    "source": "Didactique du français au cycle primaire - page 52",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 2
+  },
+  {
+    "id": "TZ-541",
+    "question": "Comment le document caractérise-t-il le statut du français au Maroc après l'indépendance ?",
+    "options": [
+      "Il a été totalement abandonné au profit des langues nationales et régionales",
+      "Il a conservé un rôle privilégié en tant que première langue étrangère (FLE)",
+      "Il est redevenu l'unique langue officielle de l'administration et de l'enseignement supérieur",
+      "Il a acquis le statut de seconde langue officielle aux côtés de l'arabe classique"
+    ],
+    "correct": 0,
+    "explanation": "Bien que l'arabisation soit devenue une option politique, le texte précise que le français a conservé un rôle privilégié en tant que première langue étrangère (FLE).",
+    "source": "Didactique du français au cycle primaire - page 13",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 3
+  },
+  {
+    "id": "TZ-542",
+    "question": "Quel est l'objectif global visé par les activités de compréhension de l'oral listées dans le document (écouter un conte, des annonces, des instructions) ?",
+    "options": [
+      "Développer l'apprentissage des stratégies d'écoute et de compréhension chez l'apprenant",
+      "Permettre à l'élève de rédiger un compte rendu écrit sans support sonore",
+      "Former l'élève à devenir un locuteur natif sans accent étranger",
+      "Apprendre à l'élève à traduire simultanément des textes complexes"
+    ],
+    "correct": 0,
+    "explanation": "Le document regroupe ces activités sous l'intitulé 'Apprentissage des stratégies d'écoute et de compréhension'.",
+    "source": "Didactique du français au cycle primaire - page 18",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 3
+  },
+  {
+    "id": "TZ-543",
+    "question": "Comment s'articule l'acquisition des compétences de communication orale selon le volet 'Production de l'oral' ?",
+    "options": [
+      "Par l'utilisation d'un langage approprié, l'expression des besoins communicatifs et l'interaction adéquate avec les interlocuteurs",
+      "Par la mémorisation exclusive de règles grammaticales complexes et de listes de vocabulaire",
+      "Par la lecture silencieuse de consignes écrites sans aucune interaction verbale",
+      "Par la transcription de documents audio sur le cahier de dictée"
+    ],
+    "correct": 0,
+    "explanation": "Le texte indique que la production de l'oral vise à utiliser un langage approprié (paroles, gestes, mimiques), exprimer ses besoins et interagir adéquatement.",
+    "source": "Didactique du français au cycle primaire - page 18",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 3
+  },
+  {
+    "id": "TZ-544",
+    "question": "Que signifie l'intégration des notions de langue 'au fur et à mesure de leur apparition dans les supports exploités' ?",
+    "options": [
+      "Les notions de langue ne sont pas enseignées de manière isolée mais connectées aux besoins et difficultés identifiés dans les activités",
+      "L'enseignant doit suivre strictement l'ordre alphabétique du dictionnaire pour enseigner la grammaire",
+      "Les élèves étudient toutes les règles de grammaire dès la première semaine de l'année scolaire",
+      "L'apprentissage de la langue est totalement indépendant des supports de lecture et de communication"
+    ],
+    "correct": 0,
+    "explanation": "Le passage indique que les notions apparaissent dans les supports des différents domaines d'activités, en fonction des besoins et des difficultés d'apprentissage identifiés.",
+    "source": "Didactique du français au cycle primaire - page 20",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 3
+  },
+  {
+    "id": "TZ-545",
+    "question": "Quel est le sens de la consigne et de la formulation attendue des élèves lors de la phase de production en graphisme ?",
+    "options": [
+      "Les élèves doivent expliciter la consigne avec leurs propres mots, puis réaliser la tâche en partant d'un point précis tout en respectant le sens et l'ampleur de la ligne",
+      "Les élèves doivent réciter un poème tout en traçant des cercles sur leur ardoise",
+      "Les élèves doivent recopier un texte entier sans utiliser les lignes indicatives",
+      "Les élèves doivent corriger les erreurs de leurs camarades au tableau"
+    ],
+    "correct": 0,
+    "explanation": "Dans la phase de production, l'enseignant explicite la consigne, demande une reformuler par les élèves, et ceux-ci tracent en respectant le sens et l'ampleur en partant du point indiqué.",
+    "source": "Didactique du français au cycle primaire - page 50",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 3
+  },
+  {
+    "id": "TZ-546",
+    "question": "Un enseignant souhaite évaluer si un élève sait écouter et comprendre un document sonore ou une chanson en classe. D'après le document, quelle démarche relève de la 'Compréhension de l'oral' ?",
+    "options": [
+      "Proposer l'écoute d'un conte ou d'une comptine pour développer les stratégies d'écoute",
+      "Demander à l'élève de réciter par cœur un poème sans support audio",
+      "Exiger de l'élève qu'il écrive la dictée du texte sans explication préalable",
+      "Inviter l'élève à lire un texte de lecture de manière autonome"
+    ],
+    "correct": 0,
+    "explanation": "Le document cite explicitement 'Ecouter/comprendre un texte, une chanson, une comptine, un poème, un conte' sous la rubrique de la compréhension de l'oral.",
+    "source": "Didactique du français au cycle primaire - page 18",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 4
+  },
+  {
+    "id": "TZ-547",
+    "question": "Lors d'une séance de graphisme, un enseignant souhaite appliquer l'étape 'Observation et découverte'. Que doit-il faire concrètement selon le document ?",
+    "options": [
+      "Amener les élèves à produire le geste convenable et leur demander de passer leurs index sur l'objet d'étude",
+      "Demander aux élèves de rédiger un texte narratif complet sur leur cahier de devoir",
+      "Inviter les élèves à réciter un dialogue mémorisé en interaction avec un camarade",
+      "Organiser une séance de présentation du projet de classe avec des invités"
+    ],
+    "correct": 0,
+    "explanation": "Le document indique pour l'observation et découverte du graphisme : amener les élèves à produire le geste convenable et demander de passer leurs index sur les objets d'étude.",
+    "source": "Didactique du français au cycle primaire - page 50",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 4
+  },
+  {
+    "id": "TZ-548",
+    "question": "En 4ème AEP, lors de la séance 1 de communication orale (pendant l'écoute), quelle action précise l'enseignant réalise-t-il ?",
+    "options": [
+      "Il fait écouter le dialogue deux fois (sur support audio ou en le disant lui-même) et pose des questions pour valider les hypothèses",
+      "Il organise une représentation théâtrale du projet de classe dans la cour de l'école",
+      "Il demande aux élèves de recopier l'intégralité du texte du livret en écriture cursive",
+      "Il évalue la diction des élèves en leur faisant réciter un poème complexe"
+    ],
+    "correct": 0,
+    "explanation": "Le passage sur la communication orale en 4ème AEP (semaine 1) indique que pendant l'écoute, l'enseignant fait écouter le dialogue deux fois et pose des questions pour valider les hypothèses.",
+    "source": "Didactique du français au cycle primaire - page 66",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 4
+  },
+  {
+    "id": "TZ-549",
+    "question": "Dans la séance 3 de communication orale (en dehors de la 4ème AEP spécifique), que fait l'enseignant pour favoriser le réemploi et le réinvestissement ?",
+    "options": [
+      "Il rappelle l'objectif de communication et propose de nouveaux contextes permettant aux apprenants de s'exprimer plus librement",
+      "Il se contente de faire relire le même dialogue en silence sans changer de contexte",
+      "Il distribue une évaluation écrite notée portant sur les règles d'orthographe lexicale",
+      "Il demande aux élèves de fermer leurs livres et d'arrêter toute prise de parole"
+    ],
+    "correct": 0,
+    "explanation": "Le document précise pour la séance 3 qu'il faut rappeler l'objectif de communication et proposer de nouveaux contextes pour permettre aux apprenants de s'exprimer plus librement.",
+    "source": "Didactique du français au cycle primaire - page 55",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 4
+  },
+  {
+    "id": "TZ-550",
+    "question": "En 4ème AEP, lors de l'activité d'écriture/copie (activités préparatoires et d'entraînement), quelle action l'enseignant effectue-t-il au tableau ?",
+    "options": [
+      "Il note un mot contenant la lettre, isole la lettre en minuscule et en majuscule, et présente le tracé sur la trame du cahier reproduite au tableau",
+      "Il demande aux élèves de rédiger un poème de trois strophes sans modèle",
+      "Il efface toutes les traces écrites pour vérifier la mémoire auditive des élèves",
+      "Il corrige individuellement les cahiers de lecture de toute la classe en silence"
+    ],
+    "correct": 0,
+    "explanation": "Le texte indique que l'enseignant note un mot contenant la lettre, isole la lettre en minuscule et majuscule, et présente le tracé de la lettre au tableau sur la trame du cahier reproduite.",
+    "source": "Didactique du français au cycle primaire - page 70",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 4
+  },
+  {
+    "id": "TZ-551",
+    "question": "Un enseignant en classe de 4ème AEP aborde la poésie (Séance 1 : Observation et Découverte). Quelle activité initiale doit-il mener avec ses élèves ?",
+    "options": [
+      "Faire observer l'image qui accompagne le poème, poser des questions anticipatives, puis faire écouter le poème livres fermés",
+      "Demander aux élèves de rédiger une dictée évaluative sans écouter le texte au préalable",
+      "Faire analyser les règles syntaxiques complexes du texte avant toute lecture",
+      "Organiser la présentation finale du projet de classe avec des invités extérieurs"
+    ],
+    "correct": 0,
+    "explanation": "Le document indique pour la poésie en 4ème AEP (Observation et Découverte) qu'il faut demander d'observer l'image, poser des questions anticipatives et faire écouter le poème les livres fermés.",
+    "source": "Didactique du français au cycle primaire - page 73",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 5
+  },
+  {
+    "id": "TZ-552",
+    "question": "Lors d'une séance de lecture avec étude de sons, un enseignant remarque que certains élèves rencontrent des difficultés. Quelle pratique pédagogique doit-il appliquer selon le document ?",
+    "options": [
+      "Procéder à la remédiation et faire des activités autour d'une notion de langue",
+      "Ignorer les difficultés et passer immédiatement au chapitre suivant du manuel",
+      "Demander aux élèves de réciter un poème en guise de punition",
+      "Exiger des élèves qu'ils recopient tout le dictionnaire en écriture cursive"
+    ],
+    "correct": 0,
+    "explanation": "Le texte précise qu'en cas de difficultés lors de la lecture, il faut procéder à la remédiation et faire des activités autour d'une notion de langue.",
+    "source": "Didactique du français au cycle primaire - page 61",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 5
+  },
+  {
+    "id": "TZ-553",
+    "question": "Un enseignant prépare la phase d'exécution de l'écriture/copie en 4ème AEP. Que doit-il faire en circulant entre les rangs ?",
+    "options": [
+      "Rectifier une position ou un geste maladroit tout en faisant réaliser l'activité d'écriture",
+      "Noter les notes de fin de trimestre de chaque élève dans le registre officiel",
+      "Distribuer de nouveaux manuels de lecture et des cahiers de poésie",
+      "Interroger les élèves sur les règles de grammaire de la semaine précédente"
+    ],
+    "correct": 0,
+    "explanation": "Le document stipule que lors de la phase d'exécution, l'enseignant fait réaliser l'activité et circule entre les rangs pour rectifier une position ou un geste maladroit.",
+    "source": "Didactique du français au cycle primaire - page 70",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 5
+  },
+  {
+    "id": "TZ-554",
+    "question": "Lors d'une séance de poésie en 5ème et 6ème AEP (Étape 2 : Compréhension), que fait l'enseignant pour l'étude du poème sur la forme ?",
+    "options": [
+      "Il pose des questions concernant les rimes, le nombre de vers et de strophes",
+      "Il demande aux élèves de dessiner une illustration abstraite inspirée par le rythme",
+      "Il traduit l'intégralité du poème dans une autre langue étrangère",
+      "Il évalue la capacité des élèves à rédiger une dictée de contrôle"
+    ],
+    "correct": 0,
+    "explanation": "Le document indique que pour l'étude du poème sur la forme en 5ème et 6ème AEP, l'enseignant pose les questions concernant les rimes, le nombre de vers et de strophes.",
+    "source": "Didactique du français au cycle primaire - page 80",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 5
+  },
+  {
+    "id": "TZ-555",
+    "question": "Dans le cadre de l'évaluation en communication orale (page 77), comment l'enseignant doit-il procéder avec les apprenants ?",
+    "options": [
+      "Il invite les apprenants à prendre la parole pour s'exprimer, s'assure de la compréhension de la consigne et leur demande de préparer leurs réponses avant de répondre",
+      "Il exige un silence absolu et distribue un questionnaire à choix multiples écrit",
+      "Il demande aux élèves de recopier le dialogue du livret sans s'exprimer oralement",
+      "Il évalue uniquement les élèves qui lèvent la main en ignorant les autres"
+    ],
+    "correct": 0,
+    "explanation": "Le texte sur l'évaluation indique d'inviter les apprenants à prendre la parole, s'assurer de la compréhension de la consigne, et leur demander de réfléchir avant de répondre et de préparer leurs réponses.",
+    "source": "Didactique du français au cycle primaire - page 77",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 5
+  },
+  {
+    "id": "TZ-556",
+    "question": "Un enseignant en 4ème AEP aborde la communication orale (semaine 1). Il utilise le poster ou indique la page du livret, puis oriente l'observation des apprenants à l'aide de questions. Quel est l'objectif précis de cette action selon le document ?",
+    "options": [
+      "Permettre aux apprenants d'anticiper sur l'illustration et de formuler des hypothèses",
+      "Leur faire mémoriser le texte par cœur sans l'écouter au préalable",
+      "Les obliger à traduire immédiatement le dialogue en langue arabe",
+      "Vérifier leur capacité à écrire le dialogue en écriture cursive"
+    ],
+    "correct": 0,
+    "explanation": "Le document indique que l'enseignant oriente l'observation à l'aide de questions leur permettant d'anticiper sur l'illustration et de formuler des hypothèses.",
+    "source": "Didactique du français au cycle primaire - page 66",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 6
+  },
+  {
+    "id": "TZ-557",
+    "question": "Durant la séance 3 d'une unité de communication générale, l'enseignant fait un rappel du dialogue précédent puis fait élaborer de nouveaux dialogues sur le même modèle. Quel lien logique cela établit-il avec le contenu lexical et syntaxique ?",
+    "options": [
+      "Cela permet d'exploiter le contenu lexical et syntaxique du dialogue en vérifiant la mémorisation avant d'élargir la production",
+      "Cela sert uniquement à remplir le volume horaire sans lien avec le lexique étudié",
+      "Cela remplace la séance de lecture et d'étude de sons obligatoire",
+      "Cela oblige l'élève à réciter un poème sans rapport avec le dialogue"
+    ],
+    "correct": 0,
+    "explanation": "Le document associe la vérification de la mémorisation du dialogue et l'exploitation de son contenu (lexical et syntaxique) à la création de nouveaux dialogues sur le même modèle.",
+    "source": "Didactique du français au cycle primaire - page 55",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 6
+  },
+  {
+    "id": "TZ-558",
+    "question": "En graphisme, lors de la phase d'entraînement, l'enseignant demande aux élèves de passer leurs index sur l'objet d'étude et d'en suivre les pointillés. En lien avec l'étape de production qui suit, pourquoi cette étape intermédiaire est-elle essentielle ?",
+    "options": [
+      "Elle prépare le geste cinétique avant d'inviter les élèves à réaliser l'activité dans le livret à la rubrique 'Je produis'",
+      "Elle permet de noter les élèves sur leur capacité à réciter des poèmes",
+      "Elle sert à évaluer l'orthographe lexicale des mots étudiés en lecture",
+      "Elle remplace totalement l'étape d'observation et découverte"
+    ],
+    "correct": 0,
+    "explanation": "L'entraînement avec l'index et les pointillés (page 50) conduit directement à l'invitation de réaliser l'activité proposée dans le livret, rubrique 'Je produis'.",
+    "source": "Didactique du français au cycle primaire - page 50",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 6
+  },
+  {
+    "id": "TZ-559",
+    "question": "Dans le cadre de l'apprentissage de la poésie en 4ème AEP, l'enseignant passe de l'étape de compréhension (explication du lexique) à l'étape d'application/transfert. Quelle action combine habilement ces aspects formels ?",
+    "options": [
+      "Amener les apprenants à découper des mots en syllabes, marquer les pauses, lire en respectant les liaisons et enchaînements, et mémoriser vers par vers",
+      "Demander aux élèves de rédiger un texte narratif en prose sans respecter la structure du poème",
+      "Faire recopier l'ensemble du dictionnaire en écriture cursive sur le cahier de classe",
+      "Organiser un débat contradictoire sur le statut du français au Maroc"
+    ],
+    "correct": 0,
+    "explanation": "Le document liste pour la poésie (étapes 3 et 4) le découpage en syllabes, le marquage des pauses, le respect des liaisons/enchaînements et la mémorisation vers par vers.",
+    "source": "Didactique du français au cycle primaire - page 73",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 6
+  },
+  {
+    "id": "TZ-560",
+    "question": "En 5ème et 6ème AEP, lors de la séance de poésie, l'enseignant structure la séance avec l'étude du poème sur le fond puis sur la forme, suivie d'une conceptualisation et d'un soutien. Comment s'articule la conceptualisation/soutien avec l'étude de la forme ?",
+    "options": [
+      "Elle mobilise les activités de découpage en syllabes, de marquage des pauses, de lecture avec liaisons et de mémorisation vers par vers",
+      "Elle consiste à rédiger une dictée notée sur les règles de conjugaison",
+      "Elle demande aux élèves de traduire le poème en dialecte local sans se soucier du rythme",
+      "Elle annule l'étape d'écoute préalable de l'enregistrement sonore"
+    ],
+    "correct": 0,
+    "explanation": "Le document associe dans cette phase le découpage en syllabes, le marquage des pauses, la lecture respectant liaisons/enchaînements et la mémorisation vers par vers.",
+    "source": "Didactique du français au cycle primaire - page 80",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 6
+  },
+  {
+    "id": "TZ-561",
+    "question": "Dans une classe de 4ème AEP, l'enseignant entame la séance 1 de communication orale. Après avoir affiché le poster et posé des questions d'anticipation, il fait écouter le dialogue deux fois et pose des questions pour valider les hypothèses. Un élève propose une hypothèse erronée lors de la phase d'anticipation. Quelle est la meilleure conduite pour l'enseignant selon la méthodologie du document ?",
+    "options": [
+      "Faire écouter le dialogue pour que l'écoute elle-même permette de valider ou d'infirmer les hypothèses formulées",
+      "Gronder l'élève et lui interdire de participer pour le reste de la séance",
+      "Ignorer l'hypothèse et donner immédiatement la bonne réponse sans faire écouter le document",
+      "Transformer la séance en un cours de graphisme sur les lignes brisées"
+    ],
+    "correct": 0,
+    "explanation": "La méthode indique que l'enseignant fait écouter le dialogue et pose des questions précisément pour valider les hypothèses formulées lors de l'anticipation.",
+    "source": "Didactique du français au cycle primaire - page 66",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 7
+  },
+  {
+    "id": "TZ-562",
+    "question": "Un enseignant de graphisme souhaite mener à bien la phase de production avec ses élèves. Un élève trace une ligne en partant d'un point incorrect et en négligeant l'ampleur demandée. En se référant aux consignes du document, quelle intervention corrective l'enseignant doit-il privilégier ?",
+    "options": [
+      "Rappeler d'expliciter la consigne, de reformuler dans son propre langage et de veiller à respecter le sens et l'ampleur de la ligne en partant du point indiqué",
+      "Lui demander de recopier tout un texte de lecture en écriture cursive sur son cahier",
+      "Lui faire réciter le poème de la semaine pour corriger son geste graphique",
+      "L'isoler au fond de la classe sans lui donner d'explications sur le tracé"
+    ],
+    "correct": 0,
+    "explanation": "Le document insiste sur le fait de tracer en partant du point de départ indiqué, faire respecter le sens et l'ampleur, expliciter la consigne et demander de la reformuler.",
+    "source": "Didactique du français au cycle primaire - page 50",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 7
+  },
+  {
+    "id": "TZ-563",
+    "question": "Lors d'une séance d'écriture/copie en 4ème AEP, l'enseignant présente le tracé de la lettre au tableau sur la trame du cahier reproduite. Avant de laisser les élèves exécuter l'exercice sur leur livret, que doit-il faire impérativement selon la méthodologie décrite ?",
+    "options": [
+      "Inviter les apprenants à s'entraîner d'abord avec le doigt en l'air puis sur l'ardoise, tout en veillant à faire verbaliser les procédures",
+      "Leur faire rédiger une dictée complexe sans préparation préalable",
+      "Leur demander de réciter le dialogue de communication orale de la semaine précédente",
+      "Passer directement à l'évaluation finale du projet de classe"
+    ],
+    "correct": 0,
+    "explanation": "Le texte indique qu'avant l'exécution, l'enseignant invite les apprenants à s'entraîner avec le doigt en l'air puis sur l'ardoise et veille à faire verbaliser les procédures.",
+    "source": "Didactique du français au cycle primaire - page 70",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 7
+  },
+  {
+    "id": "TZ-564",
+    "question": "Un enseignant organise la phase de réalisation et de présentation du projet de classe en 1ère ou 2ème AEP (étapes 4 et 5). Il souhaite inviter des acteurs extérieurs. À quel moment précis du déroulement du projet cette action doit-elle intervenir ?",
+    "options": [
+      "À l'étape 5 (présentation du projet), après avoir organisé le travail, finalisé le projet et animé l'entraînement lors de l'étape 4",
+      "Dès la première minute de la première séance de la première semaine de l'année",
+      "Pendant la phase de découverte du graphisme avant même de tracer la première ligne",
+      "Lors de la séance de remédiation en lecture de syllabes"
+    ],
+    "correct": 0,
+    "explanation": "Le document place l'invitation d'autres acteurs à assister à l'activité dans l'étape 5 'présentation du projet', qui suit l'étape 4 de réalisation et d'entraînement.",
+    "source": "Didactique du français au cycle primaire - page 52",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 7
+  },
+  {
+    "id": "TZ-565",
+    "question": "Un enseignant évalue l'expression orale d'un groupe d'élèves en suivant les recommandations de la page 77. Un élève commence à parler précipitamment sans réfléchir et sans comprendre la consigne. Quelle est l'action corrective immédiate recommandée par le texte ?",
+    "options": [
+      "S'assurer de la compréhension de la consigne et inviter l'apprenant à réfléchir avant de répondre et à préparer ses réponses",
+      "Lui attribuer la note éliminatoire sans lui laisser une seconde chance",
+      "L'obliger à écrire sa réponse sous forme de dictée sur sa feuille",
+      "Ignorer l'élève et passer à l'exercice de poésie"
+    ],
+    "correct": 0,
+    "explanation": "Le document stipule explicitement qu'il faut s'assurer de la compréhension de la consigne, et inviter les apprenants à réfléchir avant de répondre et à préparer leurs réponses.",
+    "source": "Didactique du français au cycle primaire - page 77",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 7
+  },
+  {
+    "id": "TZ-566",
+    "question": "Dans une pratique de classe observée, un enseignant enseigne les notions de langue de manière totalement déconnectée des textes et des supports étudiés, en faisant apprendre des listes de règles abstraites hors contexte. En analysant le document (page 20), en quoi cette pratique est-elle erronée ?",
+    "options": [
+      "Les notions de langue doivent être abordées au fur et à mesure de leur apparition dans les supports exploités dans les différents domaines, selon les besoins et difficultés identifiés",
+      "Les notions de langue ne doivent jamais être enseignées à l'école primaire",
+      "Elles doivent être exclusivement enseignées en langue arabe et jamais en français",
+      "Elles doivent uniquement figurer dans le projet de classe de fin d'année"
+    ],
+    "correct": 0,
+    "explanation": "Le document précise que les notions de langue apparaissent au fur et à mesure de leur apparition dans les supports exploités dans les différents domaines d'activités, en fonction des besoins et des difficultés identifiés.",
+    "source": "Didactique du français au cycle primaire - page 20",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 8
+  },
+  {
+    "id": "TZ-567",
+    "question": "Un enseignant de 4ème AEP mène une séance de poésie. Il saute l'étape de l'observation de l'image et des questions anticipatives, et commence directement par faire lire le poème en silence par les élèves. Quelle erreur commet-il par rapport à la démarche méthodologique officielle (page 73) ?",
+    "options": [
+      "Il omet l'étape essentielle d'Observation et Découverte qui consiste à faire observer l'image, poser des questions anticipatives et faire écouter le poème livres fermés",
+      "Il viole les règles de l'écriture cursive sur la trame du cahier",
+      "Il oublie d'organiser la présentation du projet de classe avec des invités extérieurs",
+      "Il supprime la phase de graphisme indispensable en 1ère AEP"
+    ],
+    "correct": 0,
+    "explanation": "La démarche officielle (page 73) commence impérativement par l'observation de l'image, les questions anticipatives et l'écoute du poème livres fermés avant la compréhension et la lecture silencieuse.",
+    "source": "Didactique du français au cycle primaire - page 73",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 8
+  },
+  {
+    "id": "TZ-568",
+    "question": "En comparant l'approche de la communication orale en 4ème AEP (page 66) et la séance 3 générale (page 55), repérez l'élément commun indispensable dans les deux démarches pour favoriser l'expression des élèves.",
+    "options": [
+      "Le recours à l'écoute de supports ou de dialogues servant de point de départ pour identifier des objectifs de communication ou élaborer de nouveaux contextes",
+      "L'obligation de rédiger une dissertation écrite de deux pages en fin de séance",
+      "La traduction systématique de tous les énoncés en dialecte local",
+      "L'interdiction absolue d'utiliser des images ou des posters en classe"
+    ],
+    "correct": 0,
+    "explanation": "Les deux démarches reposent sur l'exploitation d'un dialogue ou support initial permettant d'identifier l'objectif de communication et d'amener les apprenants à s'exprimer (via des jeux, des contextes ou des réemplois).",
+    "source": "Didactique du français au cycle primaire - page 66",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 8
+  },
+  {
+    "id": "TZ-569",
+    "question": "Dans une séance de lecture (page 61), un enseignant se contente de lire les syllabes et les mots sans jamais expliquer les mots difficiles ni procéder à une correction individuelle ou collective en cas de panne de lecture. Quelle est l'analyse correcte de sa pratique au regard du document ?",
+    "options": [
+      "Sa pratique est incomplète car le document exige l'explication des mots difficiles, la lecture et la compréhension du texte, ainsi qu'une correction collective/individuelle et de la remédiation",
+      "Elle est parfaitement conforme puisque la lecture de syllabes se suffit à elle-même",
+      "Elle respecte la démarche de graphisme de la page 50",
+      "Elle correspond exactement à la phase de présentation du projet de classe"
+    ],
+    "correct": 0,
+    "explanation": "Le document détaille l'explication des mots difficiles, la lecture et compréhension, la correction collective/individuelle, la remédiation et les activités autour de la langue.",
+    "source": "Didactique du français au cycle primaire - page 61",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 8
+  },
+  {
+    "id": "TZ-570",
+    "question": "Un enseignant analyse l'évolution historique du statut du français au Maroc telle qu'exposée dans le document (pages 8 à 13). Lequel des énoncés suivants synthétise correctement le passage du protectorat à la période post-indépendance ?",
+    "options": [
+      "Le français, langue officielle unique sous le protectorat et quasi-exclusive dans l'enseignement à la veille de l'indépendance, a vu l'arabisation s'affirmer comme option politique tout en maintenant un rôle privilégié de première langue étrangère",
+      "Le français a été totalement interdit par la loi dès le lendemain du traité de Fès en 1912",
+      "L'arabe était la seule langue d'enseignement sous le protectorat et le français est devenu langue officielle uniquement en 2000",
+      "Le statut du français n'a subi aucun changement politique ou institutionnel depuis 1912"
+    ],
+    "correct": 0,
+    "explanation": "Le texte indique clairement le statut de langue officielle sous le protectorat, quasi-exclusivité de l'enseignement à l'indépendance, puis option politique d'arabisation après l'indépendance tout en conservant le rôle de première langue étrangère.",
+    "source": "Didactique du français au cycle primaire - page 13",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 8
+  },
+  {
+    "id": "TZ-571",
+    "question": "Un enseignant gère une séance d'écriture/copie en 4ème AEP. Il applique les activités préparatoires (trouver un mot, isoler la lettre minuscule/majuscule au tableau, rappeler l'écriture cursive et la différence entre ligne et interligne). Un élève s'entraîne directement sur son cahier sans passer par l'entraînement sur l'ardoise ou avec le doigt en l'air, et présente un tracé très maladroit. En analysant la méthode (page 70), quelle étape préalable a été court-circuitée et comment y remédier ?",
+    "options": [
+      "L'entraînement avec le doigt en l'air puis sur l'ardoise avec verbalisation des procédures a été omis ; il faut y repasser et circuler entre les rangs pour rectifier le geste",
+      "Il faut immédiatement sanctionner l'élève par une dictée punitive sans explication",
+      "Il faut remplacer l'écriture par une séance de chant poétique",
+      "Il faut ignorer le geste maladroit car l'écriture s'apprend sans intervention de l'enseignant"
+    ],
+    "correct": 0,
+    "explanation": "Le document prescrit l'entraînement avec le doigt en l'air puis sur l'ardoise en veillant à faire verbaliser les procédures avant l'exécution sur le cahier et la rectification des gestes maladroits.",
+    "source": "Didactique du français au cycle primaire - page 70",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 9
+  },
+  {
+    "id": "TZ-572",
+    "question": "En analysant conjointement la démarche de la poésie en 4ème AEP (page 73) et celle en 5ème/6ème AEP (page 80), un enseignant chevronné remarque une nuance structurelle dans la progression. Laquelle ?",
+    "options": [
+      "En 5ème/6ème AEP, l'étude du poème est explicitement scindée en deux axes distincts ('Sur le fond' avec lecture silencieuse/compréhension, et 'Sur la forme' avec rimes, vers et strophes), précédant la conceptualisation/soutien",
+      "En 4ème AEP, la poésie ne comporte aucune étape d'écoute ni d'observation d'image",
+      "En 5ème/6ème AEP, il est interdit de faire mémoriser le poème vers par vers",
+      "Il n'y a aucune différence méthodologique entre les deux cycles concernant la poésie"
+    ],
+    "correct": 0,
+    "explanation": "La page 80 pour les 5ème et 6ème AEP détaille explicitement l'étude du poème 'Sur le fond' et 'Sur la forme' (rimes, vers, strophes) avant la conceptualisation et le soutien, contrairement à la présentation plus unifiée de la page 73.",
+    "source": "Didactique du français au cycle primaire - page 80",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 9
+  },
+  {
+    "id": "TZ-573",
+    "question": "Dans le cadre de l'évaluation orale (page 77) combinée aux principes de production de l'oral (page 18), un enseignant évalue un élève qui s'exprime avec un vocabulaire pauvre, sans aucun geste ni mimique, et incapable d'interagir adéquatement avec ses pairs. En croisant les exigences du document, quel diagnostic et quelle action corrective doit formuler l'enseignant ?",
+    "options": [
+      "L'élève ne maîtrise pas les stratégies de prise de parole ; il faut l'amener à utiliser un langage approprié (paroles, gestes, mimiques), exprimer ses besoins et réinvestir les contextes d'échanges",
+      "L'élève a atteint le profil de sortie de la 6ème année, il faut donc le dispenser de toute évaluation orale ultérieure",
+      "L'élève doit être orienté vers un exercice exclusif de graphisme et de copie de lettres majuscules",
+      "L'élève applique parfaitement les règles de la poésie sur la forme"
+    ],
+    "correct": 0,
+    "explanation": "Le document relie l'utilisation d'un langage approprié (paroles, gestes, mimiques), l' expression des besoins et l'interaction adéquate aux compétences de production de l'oral et d'évaluation.",
+    "source": "Didactique du français au cycle primaire - page 77",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 9
+  },
+  {
+    "id": "TZ-574",
+    "question": "Un enseignant souhaite concevoir une séquence d'apprentissage pluridisciplinaire en s'appuyant sur les orientations du document. Il hésite entre introduire une notion de langue de manière isolée au début du trimestre ou l'intégrer lors de l'exploitation des supports de lecture et de communication. En analysant la page 20 et les démarches méthodologiques, quel choix rigoureux s'impose ?",
+    "options": [
+      "Intégrer la notion au fur et à mesure de son apparition dans les supports exploités dans les différents domaines, en fonction des besoins et des difficultés d'apprentissage identifiés",
+      "L'isoler totalement pour que les élèves l'apprennent par cœur sans lien avec les textes lus",
+      "La réserver exclusivement pour la séance de présentation du projet de classe avec des invités",
+      "La supprimer car le document interdit l'enseignement des notions de langue"
+    ],
+    "correct": 0,
+    "explanation": "Le texte de la page 20 stipule clairement que les notions de langue sont vues au fur et à mesure de leur apparition dans les supports des différents domaines, selon les besoins et difficultés identifiés.",
+    "source": "Didactique du français au cycle primaire - page 20",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 9
+  },
+  {
+    "id": "TZ-575",
+    "question": "En analysant la cohérence systémique entre les profils d'entrée/sortie (pages 35, 40) et les activités de communication orale (page 18) et de lecture/remédiation (page 61), déterminez quelle interaction est exigée pour garantir la maîtrise des énoncés simples et des textes courts.",
+    "options": [
+      "La mobilisation conjointe des savoirs, savoir-faire et savoir-être à travers l'écoute, la prise de parole, la lecture de syllabes/mots/textes et la remédiation en cas de difficulté",
+      "La mémorisation passive de listes de vocabulaire sans pratique orale ni lecture",
+      "L'annulation de toute activité de lecture au profit de l'écriture exclusive en majuscules",
+      "La restriction de l'enseignement aux seuls aspects historiques du protectorat"
+    ],
+    "correct": 0,
+    "explanation": "Le profil d'entrée/sortie exige la mobilisation des savoirs, savoir-faire et savoir-être dans des situations de communication, ce qui relie directement les stratégies d'écoute/production (p. 18) et la lecture/remédiation (p. 61).",
+    "source": "Didactique du français au cycle primaire - page 35",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 10
+  },
+  {
+    "id": "TZ-576",
+    "question": "Un auditeur critique prétend que les étapes de réalisation et de présentation du projet de classe (pages 52, 58) sont indépendantes des apprentissages disciplinaires quotidiens (communication orale, lecture, poésie). En croisant les passages du document, comment réfuter rigoureusement cette allégation ?",
+    "options": [
+      "Le projet de classe (planifié annuellement aux côtés des thèmes) mobilise précisément les ressources lexicales, syntaxiques et discursives travaillées dans les disciplines (communication, lecture, poésie) à travers l'organisation, la finalisation et la présentation publique",
+      "Le projet de classe est une activité extra-scolaire sans aucun lien avec les programmes de français",
+      "Les projets de classe remplacent uniquement les leçons de mathématiques",
+      "Le document indique que le projet se réalise entièrement en une seule minute sans préparation"
+    ],
+    "correct": 0,
+    "explanation": "Le projet de classe s'intègre dans la planification annuelle (p. 26, 30) et mobilise l'organisation, la finalisation, l'entraînement et la présentation (p. 52, 58), servant de point de convergence aux apprentissages.",
+    "source": "Didactique du français au cycle primaire - page 52",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 10
+  },
+  {
+    "id": "TZ-577",
+    "question": "Considérez l'ensemble des démarches méthodologiques décrites pour la communication orale (p. 55, 66), la lecture (p. 61), l'écriture (p. 70) et la poésie (p. 73, 80). Quel principe méthodologique transversal sous-tend toutes ces démarches selon la structure du document d'Abdellah Benzannou ?",
+    "options": [
+      "Une progression structurée en étapes successives (observation/découverte, entraînement/compréhension, application/transfert, évaluation/remédiation) guidée par l'enseignant",
+      "Un apprentissage anarchique basé uniquement sur l'intuition de l'élève sans intervention de l'enseignant",
+      "Une évaluation sommative unique en fin de cycle sans exercices préparatoires",
+      "L'obligation absolue d'utiliser exclusivement des supports radiophoniques sans manuels"
+    ],
+    "correct": 0,
+    "explanation": "L'analyse globale du document montre une structuration constante des démarches méthodologiques en phases progressives (découverte, compréhension, application, évaluation/remédiation) pilotées par l'enseignant.",
+    "source": "Didactique du français au cycle primaire - page 45",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 10
+  },
+  {
+    "id": "TZ-578",
+    "question": "Dans le cadre de l'enseignement du graphisme en première année du cycle primaire au Maroc (page 50), un enseignant s'apprête à faire réaliser l'activité de la rubrique \"Je produis\". En se référant strictement aux consignes et étapes décrites pour la phase de production, laquelle des actions suivantes l'enseignant doit-il obligatoirement mener avant ou pendant la traçabilité par l'élève ?",
+    "options": [
+      "Il demande immédiatement aux élèves de tracer les lignes en suivant les pointillés sans expliciter la consigne pour favoriser l'autonomie.",
+      "Il explicite la consigne en disant \"tracer des lignes ...\", demande aux élèves de la reformuler dans leur propre langage, et veille à ce que les élèves tracent les lignes en partant du point de départ indiqué vers un point défini tout en respectant le sens et l'ampleur.",
+      "Il invite les élèves à passer uniquement leurs index sur les objets d'étude sans exiger le respect du point de départ.",
+      "Il demande aux élèves de s'entraîner uniquement sur l'ardoise en ignorant la rubrique \"Je produis\" du livret."
+    ],
+    "correct": 1,
+    "explanation": "Selon la page 50 du document (section Graphisme, étape 3 Production), l'enseignant doit expliciter la consigne («tracer des lignes ...»), demander aux élèves de la reformuler dans leur propre langage, inciter les élèves à réaliser la tâche en utilisant les lignes objet d'étude, tracer les lignes en ",
+    "source": "Didactique du français au cycle primaire - page 50",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 9
+  },
+  {
+    "id": "TZ-579",
+    "question": "En analysant conjointement les démarches méthodologiques de la poésie en 4ème AEP (page 73) et en 5ème et 6ème AEP (page 80), quelle distinction structurelle majeure apparaît dans la progression de l'étude du poème entre ces niveaux ?",
+    "options": [
+      "En 4ème AEP, l'étude du poème ne comporte aucune étape de compréhension globale, contrairement à la 5ème et 6ème AEP.",
+      "En 5ème et 6ème AEP, l'étape 2 (Compréhension / Séance 1) formalise explicitement une distinction méthodologique en deux temps distincts : l'étude du poème sur le fond (lecture silencieuse et vérification de la compréhension) suivie de l'étude du poème sur la forme (rimes, vers, strophes, liaisons, enchaînements et mémorisation), alors qu'en 4ème AEP ces aspects sont imbriqués sans cette division formelle en sous-rubriques d'analyse du fond et de la forme.",
+      "En 5ème et 6ème AEP, l'observation et la découverte sont totalement supprimées au profit d'une récitation immédiate.",
+      "En 4ème AEP, l'évaluation et le soutien interviennent avant la phase d'observation et découverte."
+    ],
+    "correct": 1,
+    "explanation": "En comparant la page 73 (4ème AEP POÉSIE) et la page 80 (5ème et 6ème AEP LECTURE DICTION), on observe qu'en 5ème et 6ème AEP, l'étape 2 / Séance 1 sépare clairement l'étude du poème « Sur le fond » (lecture silencieuse, questions de compréhension) et « Sur la forme » (rimes, nombre de vers, strophe",
+    "source": "Didactique du français au cycle primaire - page 80",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 10
+  },
+  {
+    "id": "TZ-580",
+    "question": "En croisant les exigences méthodologiques de la communication orale en 4ème AEP (page 66) et les consignes d'évaluation de la communication orale (page 77), un enseignant souhaite évaluer la capacité d'un groupe d'élèves à l'issue de la première semaine. Quelle combinaison d'actions l'enseignant doit-il rigoureusement orchestrer pour valider la démarche d'apprentissage et d'évaluation ?",
+    "options": [
+      "Il fait écouter le dialogue deux fois pour valider les hypothèses émises lors de l'anticipation, puis lors de la phase d'évaluation, il invite les apprenants à prendre la parole après s'être assuré de la compréhension de la consigne et en les incitant à réfléchir et préparer leurs réponses avant de s'auto-évaluer.",
+      "Il demande aux élèves de réciter par cœur le dialogue sans vérifier leur compréhension préalable des consignes ni les laisser réfléchir.",
+      "Il évalue les élèves uniquement sur leur capacité à écouter un document sonore sans jamais leur donner la parole pour s'exprimer ou s'auto-évaluer.",
+      "Il se contente d'afficher le poster et d'interrompre l'écoute dès la première minute pour procéder directement à une notation chiffrée sans retour réflexif."
+    ],
+    "correct": 0,
+    "explanation": "La page 66 indique qu'en 4ème AEP (séance 1, pendant l'écoute), l'enseignant fait écouter le dialogue deux fois et pose des questions pour valider les hypothèses. Par ailleurs, la page 77 (Évaluation) précise qu'il faut inviter les apprenants à prendre la parole, s'assurer de la compréhension de la ",
+    "source": "Didactique du français au cycle primaire - page 77",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 10
+  },
+  {
+    "id": "TZ-859",
+    "question": "Quel est le nom de l'inspecteur pédagogique qui a présenté le document 'Didactique du français au cycle primaire' ?",
+    "options": [
+      "Abdellah Benzannou",
+      "Mohammed Alami",
+      "Ahmed Benjelloun",
+      "Youssef Tazi"
+    ],
+    "correct": 0,
+    "explanation": "La première page du document indique explicitement que le texte a été présenté par l'inspecteur pédagogique Abdellah Benzannou.",
+    "source": "Didactique du français au cycle primaire - page 1",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 1
+  },
+  {
+    "id": "TZ-860",
+    "question": "Quels sont les deux éléments composant la planification annuelle des apprentissages en 1ère AEP ?",
+    "options": [
+      "Les leçons de grammaire et les dictées",
+      "Les thèmes choisis et les projets de classe proposés",
+      "Les listes de vocabulaire et les poèmes",
+      "Les horaires de classe et les devoirs"
+    ],
+    "correct": 1,
+    "explanation": "La planification annuelle des apprentissages en 1ère AEP comprend les thèmes choisis et les projets de classe proposés.",
+    "source": "Didactique du français au cycle primaire - page 26",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 1
+  },
+  {
+    "id": "TZ-861",
+    "question": "En 4ème AEP, lors de la Séance 1 de communication orale (semaine 1), que fait l'enseignant pendant l'écoute ?",
+    "options": [
+      "Il fait jouer le dialogue par les élèves",
+      "Il fait écouter le dialogue deux fois et pose des questions pour valider les hypothèses",
+      "Il fait réciter un poème",
+      "Il fait copier un texte au tableau"
+    ],
+    "correct": 1,
+    "explanation": "Pendant l'écoute de la séance 1 en 4ème AEP, l'enseignant fait écouter le dialogue deux fois et pose des questions pour valider les hypothèses et amorcer la compréhension.",
+    "source": "Didactique du français au cycle primaire - page 66",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 1
+  },
+  {
+    "id": "TZ-862",
+    "question": "Quel est le nom de la première étape de la poésie en 4ème AEP selon le document ?",
+    "options": [
+      "Étude du fond",
+      "Observation et Découverte",
+      "Conceptualisation",
+      "Évaluation formative"
+    ],
+    "correct": 1,
+    "explanation": "La première étape de la poésie en 4ème AEP est l'observation et la découverte, qui consiste notamment à faire observer l'image et poser des questions anticipatives.",
+    "source": "Didactique du français au cycle primaire - page 73",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 1
+  },
+  {
+    "id": "TZ-863",
+    "question": "Quelle distinction conceptuelle fondamentale le document établit-il concernant le statut d'une langue au sein d'une communauté ?",
+    "options": [
+      "Son niveau de complexité grammaticale et sa syntaxe écrite",
+      "Son utilisation par les membres dans leur vie familiale, professionnelle et sociale",
+      "Son nombre total de locuteurs natifs dans le monde",
+      "Son origine étymologique et son appartenance à une famille linguistique"
+    ],
+    "correct": 1,
+    "explanation": "Le statut d'une langue dépend de son utilisation par les membres d'une communauté dans leur vie familiale, professionnelle et sociale.",
+    "source": "Didactique du français au cycle primaire - page 8",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 2
+  },
+  {
+    "id": "TZ-864",
+    "question": "Quelle est la différence essentielle entre la 'Compréhension de l'oral' et la 'Production de l'oral' selon les volets de la communication orale ?",
+    "options": [
+      "L'une utilise des supports visuels et l'autre uniquement des livres écrits",
+      "L'une se concentre sur les stratégies d'écoute et de compréhension, l'autre sur l'acquisition des stratégies de prise de parole",
+      "L'une est réservée aux élèves de 6ème AEP et l'autre aux élèves de 1ère AEP",
+      "L'une est évaluée par écrit et l'autre par des gestes"
+    ],
+    "correct": 1,
+    "explanation": "La compréhension de l'oral cible l'apprentissage des stratégies d'écoute et de compréhension, tandis que la production de l'oral cible l'acquisition des stratégies de prise de parole.",
+    "source": "Didactique du français au cycle primaire - page 18",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 2
+  },
+  {
+    "id": "TZ-865",
+    "question": "Quelle est la similitude structurelle entre la planification annuelle de la 1ère AEP et celle de la 2ème AEP ?",
+    "options": [
+      "Elles contiennent toutes les deux exactement les mêmes leçons de grammaire",
+      "Elles comportent toutes les deux les thèmes choisis et les projets de classe proposés",
+      "Elles partagent les mêmes listes de poèmes et de dictées hebdomadaires",
+      "Elles fixent le même nombre d'heures pour l'écriture en cursive"
+    ],
+    "correct": 1,
+    "explanation": "La planification annuelle de la 2ème AEP repose sur les mêmes composantes fondamentales que la 1ère AEP, à savoir les thèmes choisis et les projets de classe proposés.",
+    "source": "Didactique du français au cycle primaire - pages 26 et 30",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 2
+  },
+  {
+    "id": "TZ-866",
+    "question": "Quelle est la différence principale entre l'étape 4 (Réalisation du projet) et l'étape 5 (Présentation du projet) dans les projets de classe en 1ère et 2ème AEP ?",
+    "options": [
+      "L'étape 4 consiste à organiser le travail et finaliser le projet, tandis que l'étape 5 consiste à animer la séance de présentation en invitant d'autres acteurs",
+      "L'étape 4 se fait uniquement à l'oral sans support, alors que l'étape 5 se fait par écrit sur le livret",
+      "L'étape 4 est évaluée par l'inspecteur, alors que l'étape 5 est évaluée par les parents à la maison",
+      "L'étape 4 concerne la poésie et l'étape 5 concerne le graphisme"
+    ],
+    "correct": 0,
+    "explanation": "L'étape 4 se focalise sur l'organisation et la finalisation du projet, alors que l'étape 5 est dédiée à l'animation de la séance de présentation et à l'invitation d'acteurs extérieurs.",
+    "source": "Didactique du français au cycle primaire - pages 52 et 58",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 2
+  },
+  {
+    "id": "TZ-867",
+    "question": "Quelle nuance distingue l'étude du poème 'sur le fond' et 'sur la forme' dans les classes de 5ème et 6ème AEP ?",
+    "options": [
+      "L'étude sur le fond s'appuie sur la lecture silencieuse et les questions de compréhension, tandis que l'étude sur la forme aborde les rimes, le nombre de vers et de strophes",
+      "L'étude sur le fond se fait sans livre, alors que l'étude sur la forme se fait obligatoirement en dictée",
+      "L'étude sur le fond est facultative, alors que l'étude sur la forme est notée sur 20",
+      "L'étude sur le fond concerne la grammaire du texte, et l'étude sur la forme concerne le graphisme"
+    ],
+    "correct": 0,
+    "explanation": "L'étude sur le fond vérifie la compréhension via la lecture silencieuse, tandis que l'étude sur la forme analyse les rimes, le nombre de vers et de strophes ainsi que la diction.",
+    "source": "Didactique du français au cycle primaire - page 80",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 2
+  },
+  {
+    "id": "TZ-868",
+    "question": "Quelle est la différence méthodologique entre la Séance 3 et la Séance 4 de communication générale décrites dans le document ?",
+    "options": [
+      "La Séance 3 se concentre sur le rappel du dialogue, l'exploitation lexicale/syntaxique et le réemploi, tandis que la Séance 4 propose une description d'images, un jeu et des activités du livre",
+      "La Séance 3 est une évaluation écrite et la Séance 4 est une séance de poésie",
+      "La Séance 3 est réservée aux élèves en difficulté, et la Séance 4 est une activité de graphisme",
+      "La Séance 3 se fait en autonomie totale à la maison, et la Séance 4 en classe entière"
+    ],
+    "correct": 0,
+    "explanation": "La Séance 3 exploite le contenu lexical/syntaxique et favorise le réemploi, alors que la Séance 4 utilise des rappels par situation, l'observation d'images, des jeux et les activités du livre.",
+    "source": "Didactique du français au cycle primaire - page 55",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 2
+  },
+  {
+    "id": "TZ-869",
+    "question": "Quel objectif global vise l'ensemble des activités de compréhension de l'oral listées dans le document (écouter un conte, des annonces, des instructions) ?",
+    "options": [
+      "Apprendre à réciter des listes de vocabulaire par cœur sans support",
+      "Développer l'apprentissage des stratégies d'écoute et de compréhension face à divers types de messages oraux",
+      "Traduire instantanément des textes écrits en langue arabe",
+      "Préparer exclusivement les élèves aux exercices de grammaire écrite"
+    ],
+    "correct": 1,
+    "explanation": "Les activités de compréhension de l'oral visent à développer les stratégies d'écoute et de compréhension à travers des textes, chansons, contes, annonces et instructions.",
+    "source": "Didactique du français au cycle primaire - page 18",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 3
+  },
+  {
+    "id": "TZ-870",
+    "question": "Quel est le rôle de la lecture des syllabes et des mots au début de la séance de lecture (page 61) ?",
+    "options": [
+      "Permettre aux élèves de mémoriser les tables de multiplication",
+      "S'entraîner à lire des syllabes et des mots renfermant le son étudié à tour de rôle",
+      "Rédiger un poème en autonomie complète",
+      "Évaluer la capacité de l'élève à courir dans la cour de l'école"
+    ],
+    "correct": 1,
+    "explanation": "La lecture de syllabes et de mots permet de se concentrer sur le son étudié en faisant lire les élèves à tour de rôle avant d'aborder la lecture et la compréhension du texte.",
+    "source": "Didactique du français au cycle primaire - page 61",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 3
+  },
+  {
+    "id": "TZ-871",
+    "question": "Quel est l'objectif des activités préparatoires et d'entraînement en écriture/copie pour la 4ème AEP (page 70) ?",
+    "options": [
+      "Faire chanter une chanson en chœur",
+      "Trouver un mot contenant la lettre, l'isoler au tableau, rappeler l'écriture cursive et s'entraîner avec le doigt puis sur l'ardoise",
+      "Organiser une compétition sportive dans la classe",
+      "Tracer des dessins libres sans rapport avec les lettres"
+    ],
+    "correct": 1,
+    "explanation": "Les activités préparatoires et d'entraînement permettent d'isoler la lettre, de rappeler l'écriture cursive et d'utiliser le doigt en l'air et l'ardoise avant l'exécution sur le livret.",
+    "source": "Didactique du français au cycle primaire - page 70",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 3
+  },
+  {
+    "id": "TZ-872",
+    "question": "Dans la séance 3 de communication générale (page 55), que fait l'enseignant pour favoriser le réemploi et le réinvestissement ?",
+    "options": [
+      "Il propose de nouveaux contextes permettant aux apprenants de s'exprimer plus librement tout en rappelant l'objectif de communication",
+      "Il demande aux élèves de recopier le dictionnaire en silence",
+      "Il fait chanter les élèves sans lien avec le lexique étudié",
+      "Il évalue les élèves par un examen écrit de mathématiques"
+    ],
+    "correct": 0,
+    "explanation": "Pour le réemploi et le réinvestissement en séance 3, l'enseignant rappelle l'objectif de communication et propose de nouveaux contextes pour une expression plus libre.",
+    "source": "Didactique du français au cycle primaire - page 55",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 4
+  },
+  {
+    "id": "TZ-873",
+    "question": "En 4ème AEP, lors de l'activité d'écriture/copie, quelle action l'enseignant effectue-t-il au tableau avant l'entraînement sur l'ardoise ?",
+    "options": [
+      "Il présente le tracé de la lettre à écrire sur la trame du cahier reproduite sur le tableau",
+      "Il efface tout le tableau pour tester la mémoire visuelle des élèves",
+      "Il dessine une carte géographique du Maroc",
+      "Il écrit une dictée de 50 mots sans explication"
+    ],
+    "correct": 0,
+    "explanation": "Avant l'entraînement, l'enseignant présente le tracé de la lettre au tableau sur la trame du cahier reproduite et donne les explications nécessaires.",
+    "source": "Didactique du français au cycle primaire - page 70",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 4
+  },
+  {
+    "id": "TZ-874",
+    "question": "Dans le cadre de la planification annuelle des apprentissages en 1ère AEP, quels sont les deux éléments principaux choisis et proposés ?",
+    "options": [
+      "Les thèmes choisis et les projets de classe proposés",
+      "Les leçons de grammaire et les listes de vocabulaire",
+      "Les chansons et les poèmes obligatoires",
+      "Les évaluations diagnostiques et les remédiations"
+    ],
+    "correct": 0,
+    "explanation": "La planification annuelle en 1ère AEP comporte explicitement les thèmes choisis et les projets de classe proposés.",
+    "source": "Didactique du français au cycle primaire - page 26",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 3
+  },
+  {
+    "id": "TZ-875",
+    "question": "Un enseignant souhaite que ses élèves s'approprient les gestes de base en graphisme avant de tracer sur leur livret. Quelle action intermédiaire doit-il mener selon l'étape d'entraînement ?",
+    "options": [
+      "Demander aux élèves de réciter un poème",
+      "Inviter les élèves à passer leurs index sur l'objet d'étude et à suivre les pointillés",
+      "Faire rédiger un texte court au tableau",
+      "Leur faire copier une dictée complexe"
+    ],
+    "correct": 1,
+    "explanation": "L'étape d'entraînement du graphisme prévoit que l'enseignant demande aux élèves de passer leurs index sur les objets d'étude et de tracer les lignes en suivant les pointillés.",
+    "source": "Didactique du français au cycle primaire - page 50",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 4
+  },
+  {
+    "id": "TZ-876",
+    "question": "Lors d'une séance de lecture (page 61), un enseignant commence par faire lire des syllabes et des mots renfermant le son étudié. Quel est l'objectif de cette démarche initiale ?",
+    "options": [
+      "Évaluer la poésie de la semaine",
+      "Préparer la lecture et la compréhension des sons et des mots du texte",
+      "Faire rédiger un nouveau dialogue",
+      "Corriger les expressions orales des élèves"
+    ],
+    "correct": 1,
+    "explanation": "La lecture de syllabes et de mots au début de la séance permet de travailler directement sur les sons étudiés avant d'aborder le texte global.",
+    "source": "Didactique du français au cycle primaire - page 61",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 4
+  },
+  {
+    "id": "TZ-877",
+    "question": "En 4ème AEP, lors de l'activité d'écriture/copie, que fait l'enseignant au tableau avant de demander aux élèves de s'entraîner sur l'ardoise ?",
+    "options": [
+      "Il efface tout le tableau pour faire un test surprise",
+      "Il présente le tracé de la lettre sur la trame du cahier reproduite au tableau et donne les explications nécessaires",
+      "Il lit un poème en entier",
+      "Il organise une représentation théâtrale"
+    ],
+    "correct": 1,
+    "explanation": "Dans les activités préparatoires et d'entraînement, l'enseignant présente le tracé de la lettre au tableau sur la trame du cahier reproduite et donne les explications nécessaires.",
+    "source": "Didactique du français au cycle primaire - page 70",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 4
+  },
+  {
+    "id": "TZ-878",
+    "question": "Dans la séance 3 de communication générale, comment l'enseignant procède-t-il pour exploiter le contenu lexical et syntaxique après la vérification du dialogue ?",
+    "options": [
+      "Il fait élaborer de nouveaux dialogues sur le même modèle",
+      "Il demande d'écrire une dictée",
+      "Il fait dessiner les personnages de l'histoire",
+      "Il lit un texte documentaire silencieusement"
+    ],
+    "correct": 0,
+    "explanation": "La séance 3 prévoit l'exploitation du contenu du dialogue à travers l'élaboration de nouveaux dialogues construits sur le même modèle.",
+    "source": "Didactique du français au cycle primaire - page 55",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 4
+  },
+  {
+    "id": "TZ-879",
+    "question": "Un enseignant de graphisme mène la phase de production avec ses élèves. Un élève commence à tracer la ligne sans respecter le point de départ indiqué ni l'ampleur demandée. Quelle intervention corrective l'enseignant doit-il privilégier ?",
+    "options": [
+      "Lui donner une note éliminatoire sans explication",
+      "Lui rappeler de tracer en partant du point indiqué pour arriver au point défini et de respecter le sens et l'ampleur",
+      "Lui demander de recopier un poème entier à la place",
+      "L'ignorer et laisser faire"
+    ],
+    "correct": 1,
+    "explanation": "Les consignes de production en graphisme exigent de tracer les lignes en partant du point de départ indiqué et de faire respecter le sens et l'ampleur.",
+    "source": "Didactique du français au cycle primaire - page 50",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 5
+  },
+  {
+    "id": "TZ-880",
+    "question": "Lors d'une séance d'écriture/copie en 4ème AEP, l'enseignant a présenté le tracé au tableau et rappelé la différence entre ligne et interligne. Avant de passer à l'écriture sur le cahier, quelle étape intermédiaire d'entraînement l'enseignant doit-il impérativement faire réaliser ?",
+    "options": [
+      "Un exercice de lecture silencieuse de texte long",
+      "Un entraînement avec le doigt en l'air puis sur l'ardoise",
+      "Une récitation de poésie collective",
+      "Une évaluation sommative notée"
+    ],
+    "correct": 1,
+    "explanation": "Le guide méthodologique stipule clairement d'inviter les apprenants à s'entraîner d'abord avec le doigt en l'air puis sur l'ardoise avant l'exécution sur le cahier.",
+    "source": "Didactique du français au cycle primaire - page 70",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 5
+  },
+  {
+    "id": "TZ-881",
+    "question": "Un enseignant organise la phase de présentation du projet de classe (étape 5) en 1ère ou 2ème AEP. Outre l'animation de la séance par l'enseignant, quelle action particulière est recommandée pour valoriser le travail des élèves ?",
+    "options": [
+      "Inviter d'autres acteurs à assister à cette activité",
+      "Faire passer un examen écrit noté sur 20 à tous les invités",
+      "Détruire les productions pour garder le secret de fabrication",
+      "Interdire l'accès à la classe aux collègues"
+    ],
+    "correct": 0,
+    "explanation": "L'étape 5 du projet de classe (présentation) prévoit explicitement d'inviter d'autres acteurs à assister à cette activité.",
+    "source": "Didactique du français au cycle primaire - page 52",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 5
+  },
+  {
+    "id": "TZ-882",
+    "question": "Un enseignant évalue l'expression orale d'un groupe d'élèves en suivant les recommandations de la page 77. Un élève commence à parler précipitamment sans réfléchir. Quelle consigne préalable l'enseignant doit-il lui rappeler ?",
+    "options": [
+      "De réciter le texte le plus vite possible sans respirer",
+      "De réfléchir avant de répondre et de préparer ses réponses",
+      "De rester complètement silencieux pendant toute l'heure",
+      "De copier le dialogue sur son ardoise"
+    ],
+    "correct": 1,
+    "explanation": "Les consignes d'évaluation orale indiquent qu'il faut inviter les apprenants à réfléchir avant de répondre et à préparer leurs réponses.",
+    "source": "Didactique du français au cycle primaire - page 77",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 5
+  },
+  {
+    "id": "TZ-883",
+    "question": "Un enseignant de 4ème AEP aborde la poésie (Séance 1). Il néglige totalement l'observation de l'image et commence directement par faire lire le poème en silence. Quelle erreur commet-il par rapport à la démarche officielle ?",
+    "options": [
+      "Il saute l'étape indispensable d'observation de l'image et des questions anticipatives",
+      "Il respecte scrupuleusement la chronologie des séances",
+      "Il applique parfaitement les consignes de diction",
+      "Il favorise trop l'expression écrite"
+    ],
+    "correct": 0,
+    "explanation": "La première étape de la poésie en 4ème AEP commence obligatoirement par l'observation de l'image qui accompagne le poème et la formulation de questions anticipatives.",
+    "source": "Didactique du français au cycle primaire - page 73",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 5
+  },
+  {
+    "id": "TZ-884",
+    "question": "En analysant la transition historique du statut du français au Maroc (pages 8 à 13), quel rôle cette langue a-t-elle principalement endossé après l'indépendance malgré l'option d'arabisation ?",
+    "options": [
+      "Elle est devenue la seule langue officielle de l'administration",
+      "Elle a conservé un rôle privilégié en tant que première langue étrangère (FLE)",
+      "Elle a été totalement interdite dans toutes les écoles",
+      "Elle est devenue la langue maternelle de tous les élèves"
+    ],
+    "correct": 1,
+    "explanation": "Le texte indique qu'après l'indépendance et l'option d'arabisation, le français a conservé un rôle privilégié en tant que première langue étrangère (FLE).",
+    "source": "Didactique du français au cycle primaire - page 13",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 6
+  },
+  {
+    "id": "TZ-885",
+    "question": "Un enseignant gère une séance d'écriture en 4ème AEP. Les élèves passent directement de la consigne globale au cahier sans passer par l'ardoise, ce qui génère des tracés maladroits. En croisant les instructions de la page 70, quelle étape préalable a été court-circuitée ?",
+    "options": [
+      "La dictée de textes longs",
+      "L'entraînement avec le doigt en l'air puis sur l'ardoise avec verbalisation des procédures",
+      "La récitation d'un poème complexe",
+      "L'écoute d'un dialogue audio"
+    ],
+    "correct": 1,
+    "explanation": "L'oubli de l'étape d'entraînement intermédiaire (doigt en l'air, ardoise et verbalisation des procédures) pénalise l'exécution correcte sur le cahier.",
+    "source": "Didactique du français au cycle primaire - page 70",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 6
+  },
+  {
+    "id": "TZ-886",
+    "question": "En comparant l'approche de la communication orale en 4ème AEP (page 66) et la séance 3 générale (page 55), quel est le point commun méthodologique pour garantir l'expression des élèves ?",
+    "options": [
+      "L'utilisation exclusive de l'écrit sans support oral",
+      "L'appui sur un modèle ou un dialogue initial pour encourager le réemploi et l'expression",
+      "L'obligation de réciter des poèmes en vers",
+      "La réalisation de graphismes sur ardoise"
+    ],
+    "correct": 1,
+    "explanation": "Les deux démarches reposent sur l'exploitation d'un contenu de base (dialogue) pour amener les apprenants à s'exprimer, réemployer ou transférer les acquis.",
+    "source": "Didactique du français au cycle primaire - pages 55, 66",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 6
+  },
+  {
+    "id": "TZ-887",
+    "question": "Dans une séance de lecture (page 61), un enseignant se contente de lire les mots sans jamais expliquer le lexique difficile ni faire de remédiation en cas de difficulté. Quelle est l'analyse de sa pratique ?",
+    "options": [
+      "Elle est parfaitement conforme car la lecture se suffit à elle-même",
+      "Elle est incomplète et erronée puisqu'il omet l'explication des mots difficiles, la correction collective/individuelle et la remédiation",
+      "Elle applique strictement la démarche de poésie",
+      "Elle correspond à l'étape de production en graphisme"
+    ],
+    "correct": 1,
+    "explanation": "La fiche de lecture exige explicitement l'explication des mots difficiles, la correction collective et individuelle ainsi que des activités de remédiation.",
+    "source": "Didactique du français au cycle primaire - page 61",
+    "doc": "Didactique du français au cycle primaire",
+    "level": 6
+  }
+]
