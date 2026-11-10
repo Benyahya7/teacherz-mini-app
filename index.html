@@ -101,9 +101,10 @@ textarea{width:100%;min-height:110px;border:1px solid var(--line);border-radius:
       <div class="stat"><b id="st-exam">394</b><span>سؤال مباراة</span></div>
       <div class="stat"><b id="st-mine">0</b><span>نقطي في التطبيق</span></div>
     </div>
+    <div class="note" id="exam-countdown">📅 امتحان الكفاءة المهنية 2026: السبت 5 دجنبر 2026</div>
     <h2 class="sec">ابدأ الآن</h2>
     <div class="grid">
-      <button class="card" onclick="go('v-qcm')"><div class="ic">📝</div><h3>اختبار QCM</h3><p>20 سؤالا من بنك Teacherz، اختر المستوى والموضوع.</p></button>
+      <button class="card" onclick="go('v-qcm')"><div class="ic">📝</div><h3>اختبار QCM</h3><p>20 سؤالا من بنك Teacherz، اختر الوثيقة والمستوى — أو دورة من المباريات السابقة.</p></button>
       <button class="card" onclick="go('v-exam')"><div class="ic">🎓</div><h3>اختبار المباراة</h3><p>دورات 2017–2025، 20 سؤالا، النقطة من 20.</p></button>
       <button class="card" onclick="startFlash()"><div class="ic">🗂️</div><h3>بطاقات المراجعة</h3><p>اقلب البطاقة، وقل إن كنت تعرف الجواب أم لا.</p></button>
       <button class="card" onclick="go('v-ask')"><div class="ic">💬</div><h3>اسأل الأستاذ</h3><p>أرسل سؤالك للبوت، ويجيبك من الوثائق مع المصدر.</p></button>
@@ -116,9 +117,10 @@ textarea{width:100%;min-height:110px;border:1px solid var(--line);border-radius:
   <section class="view" id="v-qcm">
     <div class="pad"><button class="back" onclick="go('v-home')">‹ رجوع</button>
     <h2 class="sec" style="margin-right:0">📝 اختبار QCM</h2>
-    <p class="small">اختر المستوى، ثم الموضوع. 20 سؤالا، نقطة لكل جواب صحيح.</p>
-    <h3 style="margin-top:16px">المستوى</h3><div class="chips" id="levels"></div>
-    <h3>الموضوع</h3><div class="chips" id="docs"></div>
+    <p class="small">اختر الوثيقة، ثم المستوى. 20 سؤالا من الوثيقة المختارة فقط، نقطة لكل جواب صحيح — أو اختر دورة من المباريات السابقة.</p>
+    <h3 style="margin-top:16px">الوثيقة</h3><div class="chips" id="docs"></div>
+    <h3>المستوى</h3><div class="chips" id="levels"></div>
+    <h3>🎓 أسئلة المباريات</h3><div class="chips" id="exam-years"></div>
     <button class="btn" onclick="startQuiz('qcm')">ابدأ الاختبار (20 سؤالا)</button>
     <div class="note" id="qcm-count"></div></div>
   </section>
@@ -193,7 +195,11 @@ var DOC_SHORT={
  'Enseignement/apprentissage du français 2023/2024':'Français 2023/2024',
  'مصفوفة المدى والتتابع — الرياضيات':'الرياضيات'};
 var YEARS=[['2025','نونبر 2025'],['2024-10','أكتوبر 2024'],['2024-04','أبريل 2024'],['2024-02','فبراير 2024'],['2023','دورة 2023'],['2022','نونبر 2022'],['2019-practice','تدريب 2019'],['2018-practice','تدريب 2018'],['2018-12-practice','تدريب دجنبر 2018'],['2017-practice','تدريب 2017']];
-var selLevel=5, selDoc='__ALL__', selYear='2025';
+var selLevel=5, selDoc='__ALL__', selYear='2025', selExamYear='';
+var EXAM_YEARS_QCM=[['2025','نونبر 2025'],['2024-10','أكتوبر 2024'],['2024-04','أبريل 2024'],['2024-02','فبراير 2024'],['2023','دورة 2023'],['2022','نونبر 2022'],['practice-all','تدريب 2017–2019']];
+function examYearLabel(k){ if(k==='practice-all') return 'تدريب 2017–2019'; return (META && META.exams[k]) ? META.exams[k].label : k; }
+function renderDocChips(){ var docs=[['__ALL__','كل المواضيع']].concat(META.docs.map(function(d){ return [d, DOC_SHORT[d]||d]; })); chipRow('docs', docs, selDoc, function(v){ selDoc=v; selExamYear=''; renderExamChips(); updateQcmCount(); }); }
+function renderExamChips(){ var items=[['','—']].concat(EXAM_YEARS_QCM); chipRow('exam-years', items, selExamYear, function(v){ selExamYear=v; updateQcmCount(); }); }
 var quiz=null, flash=null;
 
 function go(id){ document.querySelectorAll('.view').forEach(function(v){v.classList.remove('active');}); document.getElementById(id).classList.add('active'); window.scrollTo(0,0); if(id==='v-score') renderScore(); }
@@ -214,6 +220,8 @@ function chipRow(el, items, sel, onPick){
   });
 }
 function init(){
+  var cd=document.getElementById('exam-countdown');
+  if(cd){ var t=new Date(); var today=new Date(t.getFullYear(),t.getMonth(),t.getDate()); var exam=new Date(2026,11,5); var days=Math.round((exam-today)/86400000); cd.textContent = days>0 ? '📅 امتحان الكفاءة المهنية 2026: السبت 5 دجنبر 2026 — بقي '+days+' يوما. التسجيل: 14–28 نونبر 2026.' : (days===0 ? '📅 امتحان الكفاءة المهنية 2026: اليوم! بالتوفيق 🍀' : '📅 امتحان الكفاءة المهنية 2026 كان يوم السبت 5 دجنبر 2026.'); }
   var u = tg && tg.initDataUnsafe && tg.initDataUnsafe.user;
   if (u && u.first_name) document.getElementById('home-user').textContent='أهلا، '+u.first_name;
   fetchJSON('data/meta.json').then(function(m){
@@ -224,18 +232,26 @@ function init(){
     var p=loadProgress(); document.getElementById('st-mine').textContent=p.total_points||0;
     var levels=[]; for(var l=1;l<=10;l++) levels.push([l,'مستوى '+l]);
     chipRow('levels', levels, selLevel, function(v){ selLevel=v; updateQcmCount(); });
-    var docs=[['__ALL__','كل المواضيع']].concat(m.docs.map(function(d){ return [d, DOC_SHORT[d]||d]; }));
-    chipRow('docs', docs, selDoc, function(v){ selDoc=v; updateQcmCount(); });
+    renderDocChips();
+    renderExamChips();
     chipRow('years', YEARS.map(function(y){ return [y[0], y[1]]; }), selYear, function(v){ selYear=v; });
     updateQcmCount();
   }).catch(function(){ document.getElementById('qcm-count').textContent='تعذر تحميل البيانات — تحقق من الاتصال وأعد فتح التطبيق.'; });
 }
 function updateQcmCount(){
   if(!META) return;
+  if(selExamYear){
+    var label=examYearLabel(selExamYear);
+    var n = selExamYear==='practice-all' ? 80 : (META.exams[selExamYear] ? META.exams[selExamYear].count : 0);
+    document.getElementById('qcm-count').textContent='مباراة '+label+': يوجد '+n+' سؤالا، وسيختار التطبيق 20 منها عشوائيا.';
+    return;
+  }
   fetchJSON('data/qcm.json').then(function(q){
     QCM=q;
-    var n=q.filter(function(x){ return (selDoc==='__ALL__'||x.doc===selDoc) && x.level===selLevel; }).length;
-    document.getElementById('qcm-count').textContent='يوجد '+n+' سؤالا في المستوى '+selLevel+(selDoc==='__ALL__'?' (كل المواضيع)':' — '+ (DOC_SHORT[selDoc]||selDoc))+'، وسيختار التطبيق 20 منها عشوائيا.';
+    var pool=q.filter(function(x){ return selDoc==='__ALL__'||x.doc===selDoc; });
+    var n=pool.length;
+    var docName=selDoc==='__ALL__'?'كل المواضيع':(DOC_SHORT[selDoc]||selDoc);
+    document.getElementById('qcm-count').textContent='يوجد '+n+' سؤالا في '+(selDoc==='__ALL__'?'جميع الوثائق':docName)+'، وسيختار التطبيق 20 منها الأقرب إلى المستوى '+selLevel+'.';
   });
 }
 function startQuiz(kind){
@@ -245,11 +261,23 @@ function startQuiz(kind){
     go('v-quiz'); renderQ();
   };
   if(kind==='qcm'){
+    if(selExamYear){
+      var files = selExamYear==='practice-all'
+        ? ['data/exam-2017-practice.json','data/exam-2018-practice.json','data/exam-2018-12-practice.json','data/exam-2019-practice.json']
+        : ['data/exam-'+selExamYear+'.json'];
+      Promise.all(files.map(fetchJSON)).then(function(parts){
+        var items=[]; parts.forEach(function(a){ items=items.concat(a); });
+        var label=examYearLabel(selExamYear);
+        done(items, 'أسئلة مباراة '+label, {level:7, topic:'🎓 مباراة '+label, year:selExamYear});
+      });
+      return;
+    }
     fetchJSON('data/qcm.json').then(function(q){
       QCM=q;
-      var pool=q.filter(function(x){ return x.level===selLevel && (selDoc==='__ALL__'||x.doc===selDoc); });
-      if(pool.length<20 && selDoc!=='__ALL__'){ pool=q.filter(function(x){ return x.level===selLevel; }); }
-      done(pool, 'اختبار QCM — مستوى '+selLevel+(selDoc==='__ALL__'?'':' — '+(DOC_SHORT[selDoc]||selDoc)), {level:selLevel, topic: selDoc==='__ALL__'?'QCM — كل المواضيع':(DOC_SHORT[selDoc]||selDoc)});
+      var pool=q.filter(function(x){ return selDoc==='__ALL__'||x.doc===selDoc; });
+      pool.sort(function(a,b){ return Math.abs(a.level-selLevel)-Math.abs(b.level-selLevel); });
+      pool=pool.slice(0,20);
+      done(pool, 'اختبار QCM — مستوى '+selLevel+(selDoc==='__ALL__'?'':' — '+(DOC_SHORT[selDoc]||selDoc)), {level:selLevel, topic: selDoc==='__ALL__'?'QCM — كل المواضيع':(DOC_SHORT[selDoc]||selDoc), doc: selDoc==='__ALL__'?'':selDoc});
     });
   } else {
     var f='data/exam-'+selYear+'.json';
@@ -300,6 +328,8 @@ function finishQuiz(){
   p.total_points=(p.total_points||0)+score; p.quizzes=(p.quizzes||0)+1;
   p.total_correct=(p.total_correct||0)+score; p.total_questions=(p.total_questions||0)+total;
   p.best_score=Math.max(p.best_score||0, rating); p.last_score=rating; p.last_topic=quiz.title;
+  if(quiz.meta.doc){ p.per_doc=p.per_doc||{}; var d=p.per_doc[quiz.meta.doc]||{best:0,quizzes:0}; d.best=Math.max(d.best,rating); d.quizzes++; p.per_doc[quiz.meta.doc]=d; }
+  if(quiz.meta.year){ p.per_exam=p.per_exam||{}; var e=p.per_exam[quiz.meta.year]||{best:0,quizzes:0}; e.best=Math.max(e.best,rating); e.quizzes++; p.per_exam[quiz.meta.year]=e; }
   saveProgress(p);
   document.getElementById('st-mine').textContent=p.total_points;
   var html='<div class="result"><div class="big">'+score+' / '+total+'</div><p>'+quiz.title+'<br>النقطة من 20: <b>'+rating+'/20</b><br>'+(rating>=10?'أحسنت، نتيجة ناجحة! 🎉':'واصل التدريب — راجع الأخطاء بالأسفل وحاول من جديد.')+'</p></div>';
@@ -367,11 +397,20 @@ function sendAsk(){
 function renderScore(){
   var p=loadProgress();
   var avg = p.total_questions ? (p.total_correct/p.total_questions*20).toFixed(1) : '—';
+  var extra='';
+  if(p.per_doc){
+    extra+='<h3>تقدمي حسب الوثيقة</h3>';
+    Object.keys(p.per_doc).forEach(function(d){ var v=p.per_doc[d]; extra+='<div class="note">'+escapeHtml(DOC_SHORT[d]||d)+': أفضل نتيجة '+v.best+'/20 — '+v.quizzes+' اختبارا</div>'; });
+  }
+  if(p.per_exam){
+    extra+='<h3>🎓 المباريات السابقة</h3>';
+    Object.keys(p.per_exam).forEach(function(y){ var v=p.per_exam[y]; extra+='<div class="note">'+escapeHtml(examYearLabel(y))+': أفضل نتيجة '+v.best+'/20 — '+v.quizzes+' اختبارا</div>'; });
+  }
   document.getElementById('score-body').innerHTML=
     '<div class="stats" style="margin:12px 0"><div class="stat"><b>'+(p.total_points||0)+'</b><span>مجموع النقط</span></div>'+
     '<div class="stat"><b>'+(p.quizzes||0)+'</b><span>اختبار</span></div>'+
     '<div class="stat"><b>'+(p.best_score||0)+'/20</b><span>أفضل نتيجة</span></div></div>'+
-    '<div class="note">آخر نتيجة: '+(p.last_score!=null?p.last_score+'/20':'—')+' '+(p.last_topic?'— '+escapeHtml(p.last_topic):'')+'<br>المعدل العام: '+avg+'/20<br>أرسل كل نتيجة للبوت بزر «أرسل النتيجة للبوت» بعد أي اختبار، لتُسجَّل في نقط البوت وجدول Google Sheet.</div>';
+    '<div class="note">آخر نتيجة: '+(p.last_score!=null?p.last_score+'/20':'—')+' '+(p.last_topic?'— '+escapeHtml(p.last_topic):'')+'<br>المعدل العام: '+avg+'/20<br>أرسل كل نتيجة للبوت بزر «أرسل النتيجة للبوت» بعد أي اختبار، لتُسجَّل في نقط البوت وجدول Google Sheet.</div>'+extra;
 }
 function resetProgress(){ if(confirm('مسح كل نقط التطبيق؟')){ saveProgress({}); renderScore(); document.getElementById('st-mine').textContent='0'; } }
 init();
