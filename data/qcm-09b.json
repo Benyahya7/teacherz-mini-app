@@ -1,0 +1,572 @@
+[
+  {
+    "id": "TZ-961",
+    "question": "Dans une classe de 4ème AEP, un enseignant souhaite évaluer la fluidité de lecture d'un groupe d'élèves qui lisent de manière saccadée (page 51). Il conçoit une fiche de lecture. Quelle consigne spécifique, directement issue du document, doit-il donner aux élèves pour corriger ce défaut ?",
+    "options": [
+      "« Segmenter la phrase en fonction du sens et lire en respectant scrupuleusement la ponctuation. »",
+      "« Lire le texte entier d'une seule traite sans respirer pour aller plus vite. »",
+      "« Traduire chaque mot en dialecte local avant de prononcer la phrase. »",
+      "« Ignorer les points et les virgules pour accélérer le débit de parole. »"
+    ],
+    "correct": 0,
+    "explanation": "La page 51 indique explicitement pour développer la fluidité chez les lecteurs non fluides : segmenter une phrase en fonction du sens et faire lire en respectant la ponctuation.",
+    "source": "Enseignement/apprentissage du français 2023/2024 - page 51",
+    "doc": "Enseignement/apprentissage du français 2023/2024",
+    "level": 7
+  },
+  {
+    "id": "TZ-962",
+    "question": "Un enseignant remarque qu'un élève de 2ème AEP présente des lacunes importantes en conscience phonologique et en principe alphabétique au cours d'une séquence de lecture (page 49). En appliquant la procédure de soutien pédagogique (page 86), quelle action immédiate doit-il entreprendre ?",
+    "options": [
+      "Mettre en place un soutien immédiat qui accompagne le processus d'enseignement/apprentissage pour répondre aux besoins diagnostiqués, avant les semaines de remédiation périodique.",
+      "Attendre la fin de l'année scolaire pour l'isoler définitivement de la classe.",
+      "Lui faire copier un texte de 50 pages sans explication phonologique.",
+      "Changer immédiatement de langue d'enseignement."
+    ],
+    "correct": 0,
+    "explanation": "La page 86 stipule que le soutien immédiat accompagne le processus d'apprentissage pour répondre aux besoins identifiés lors des séquences, ce qui correspond au cas de l'élève.",
+    "source": "Enseignement/apprentissage du français 2023/2024 - pages 49 et 86",
+    "doc": "Enseignement/apprentissage du français 2023/2024",
+    "level": 7
+  },
+  {
+    "id": "TZ-963",
+    "question": "Un enseignant de 3ème AEP aborde le thème 'La vie associative' (page 20). Pour développer la communication orale (page 35), il souhaite amener les élèves à utiliser les actes de langage étudiés dans une situation concrète. Quelle situation de classe doit-il privilégier ?",
+    "options": [
+      "Une simulation d'échange où les élèves expriment leurs besoins communicatifs en rapport avec la vie associative locale, en utilisant un langage verbal et non verbal adapté.",
+      "Une récitation individuelle d'un texte juridique abstrait sans interaction.",
+      "Une épreuve écrite de grammaire pure sans expression orale.",
+      "Un exposé magistral de l'enseignant pendant toute la séance sans participation des élèves."
+    ],
+    "correct": 0,
+    "explanation": "La page 35 insiste sur l'utilisation des actes de langage, du langage verbal et non verbal, et l'expression des besoins communicatifs, en cohérence avec l'environnement local de la 3e AEP.",
+    "source": "Enseignement/apprentissage du français 2023/2024 - pages 20 et 35",
+    "doc": "Enseignement/apprentissage du français 2023/2024",
+    "level": 7
+  },
+  {
+    "id": "TZ-964",
+    "question": "Un enseignant de 5ème AEP souhaite planifier la production de l'écrit pour une unité didactique (page 75) en y intégrant l'utilisation des TIC (page 29). Comment doit-il organiser ses séances de production écrite sur les deux semaines ?",
+    "options": [
+      "Il répartit la production sur la séance de la semaine 1 et les deux séances de la semaine 2, en utilisant les TIC comme support de renforcement de l'expression et d'enrichissement lexical.",
+      "Il supprime les séances écrites et les remplace par des jeux vidéo sans rapport avec le lexique.",
+      "Il fait rédiger les trois séances en un seul jour sans aucune préparation lexicale.",
+      "Il interdit l'usage de tout support technologique ou textuel."
+    ],
+    "correct": 0,
+    "explanation": "La page 75 impose 1 séance en semaine 1 et 2 séances en semaine 2 pour la production écrite, et la page 29 intègre les TIC comme support d'enrichissement lexical et de production.",
+    "source": "Enseignement/apprentissage du français 2023/2024 - pages 29 et 75",
+    "doc": "Enseignement/apprentissage du français 2023/2024",
+    "level": 7
+  },
+  {
+    "id": "TZ-965",
+    "question": "Un enseignant organise une séance de lecture en 4ème AEP en combinant la méthode interactive (page 49) et le travail en groupe (page 29). Quelle pratique pédagogique met en œuvre ces deux orientations simultanément ?",
+    "options": [
+      "Inviter le groupe-classe, en tant que cadre social d'interaction et de médiation, à formuler collectivement des hypothèses (stratégies d'anticipation) sur un texte avant la lecture.",
+      "Demander à chaque élève de lire en silence dans son coin sans échanger avec le groupe.",
+      "Imposer une lecture magistrale par l'enseignant sans aucune intervention des élèves.",
+      "Faire copier le dictionnaire par cœur par l'ensemble de la classe."
+    ],
+    "correct": 0,
+    "explanation": "La page 29 définit le groupe-classe comme cadre de médiation et d'interaction, et la page 49 cite les stratégies d'anticipation (hypothèses) de la méthode interactive.",
+    "source": "Enseignement/apprentissage du français 2023/2024 - pages 29 et 49",
+    "doc": "Enseignement/apprentissage du français 2023/2024",
+    "level": 7
+  },
+  {
+    "id": "TZ-966",
+    "question": "Un enseignant de 4ème AEP consacre l'intégralité de son temps d'apprentissage du français à la lecture et à l'écriture, en éliminant totalement les activités orales, estimant que l'oral s'acquiert tout seul. Quelle erreur commet-il par rapport aux orientations du document ?",
+    "options": [
+      "Il contredit la pondération officielle du curriculum (page 25) qui attribue un volume significatif (20% en 4e AEP) à la compréhension et production de l'oral, négligeant ainsi le développement du discours oral (page 35).",
+      "Il respecte parfaitement les directives ministérielles puisque l'oral n'est pas mentionné dans les textes.",
+      "Il applique la méthode interactive de manière rigoureuse en supprimant les sons.",
+      "Il favorise excessivement le centrage sur l'apprenant."
+    ],
+    "correct": 0,
+    "explanation": "La page 25 indique clairement un pourcentage de 20% pour l'oral en 4e AEP, et la page 35 structure l'apprentissage du discours oral. Supprimer l'oral est donc une erreur majeure par rapport aux orientations.",
+    "source": "Enseignement/apprentissage du français 2023/2024 - pages 25 et 35",
+    "doc": "Enseignement/apprentissage du français 2023/2024",
+    "level": 8
+  },
+  {
+    "id": "TZ-967",
+    "question": "Dans une classe de 5ème AEP, un enseignant évalue la production écrite de ses élèves en se focalisant uniquement sur la calligraphie et la copie de mots isolés, sans demander de production de textes courts. En comparant cette pratique avec les exigences de la page 17, quelle est l'anomalie ?",
+    "options": [
+      "L'exigence pour la 5e AEP est de comprendre et de produire des énoncés simples et des textes courts (oral et écrit), dépassant la simple copie de mots de niveau inférieur.",
+      "La copie de mots isolés est la seule compétence exigée en fin de cycle primaire.",
+      "La production écrite ne figure pas dans le curriculum des 5e et 6e AEP.",
+      "Il n'y a aucune anomalie, la copie étant l'unique finalité de l'écrit."
+    ],
+    "correct": 0,
+    "explanation": "La page 17 montre que pour la 5e AEP, l'attendu est de comprendre et produire des énoncés simples et des textes courts, contrairement au niveau initial (3e AEP) centré sur les graphèmes et syllabes.",
+    "source": "Enseignement/apprentissage du français 2023/2024 - page 17",
+    "doc": "Enseignement/apprentissage du français 2023/2024",
+    "level": 8
+  },
+  {
+    "id": "TZ-968",
+    "question": "Un enseignant met en place un soutien pédagogique qu'il qualifie de 'différé' mais qu'il réalise chaque matin pendant 5 minutes au début de la leçon courante en s'adressant à toute la classe indifféremment. Quelle est l'erreur méthodologique par rapport à la page 86 ?",
+    "options": [
+      "Il confond le soutien immédiat (qui accompagne le processus) avec le soutien différé/périodique (qui s'effectue lors des semaines de soutien ou via le projet d'établissement pour des besoins diagnostiqués), et omet le ciblage des difficultés majeures.",
+      "Il respecte parfaitement la définition institutionnelle du soutien différé.",
+      "Il applique la différenciation pédagogique de manière idéale.",
+      "Il utilise les TIC de façon optimale."
+    ],
+    "correct": 0,
+    "explanation": "La page 86 définit le soutien différé comme s'effectuant lors des semaines de soutien propres à chaque unité/période ou dans le cadre du projet d'établissement pour répondre aux difficultés majeures et persistantes.",
+    "source": "Enseignement/apprentissage du français 2023/2024 - page 86",
+    "doc": "Enseignement/apprentissage du français 2023/2024",
+    "level": 8
+  },
+  {
+    "id": "TZ-969",
+    "question": "Un enseignant de 3ème AEP décide d'enseigner la lecture en utilisant uniquement la méthode interactive (anticipation, lecture rapide) dès le premier jour, sans passer par l'étude des sons, des phonèmes et de la conscience phonologique. En quoi cette pratique contredit-elle la page 49 ?",
+    "options": [
+      "Elle omet les méthodes syllabiques indispensables et leurs habiletés de base (conscience phonologique, principe alphabétique, identification des mots) qui constituent le socle de la lecture aux côtés de la méthode interactive.",
+      "Elle respecte totalement les consignes puisque la méthode interactive remplace définitivement les sons.",
+      "Elle applique le centrage sur l'apprenant de manière absolue.",
+      "Il n'y a aucune contradiction, les sons n'ayant aucun rôle en lecture."
+    ],
+    "correct": 0,
+    "explanation": "La page 49 associe la lecture à la fois aux méthodes syllabiques (sons, conscience phonologique, principe alphabétique) et à la méthode interactive. Ignorer les habiletés de base est une lacune méthodologique.",
+    "source": "Enseignement/apprentissage du français 2023/2024 - page 49",
+    "doc": "Enseignement/apprentissage du français 2023/2024",
+    "level": 8
+  },
+  {
+    "id": "TZ-970",
+    "question": "Un enseignant de 6ème AEP organise un projet de classe consistant à réaliser un dossier sur la civilisation marocaine. En croisant les données de la page 20 (thèmes) et de la page 82 (projets de classe), quelle erreur majeure commet-il dans le choix de son projet par rapport au niveau enseigné ?",
+    "options": [
+      "Le dossier sur la civilisation marocaine est associé au niveau de la 4e AEP (page 82), tandis que la 6e AEP traite des civilisations universelles, de l'énergie ou des défis contemporains.",
+      "Il choisit le projet parfaitement adapté puisque tous les projets sont interchangeables quel que soit le niveau.",
+      "Le thème de la civilisation marocaine est exclusif à la 1ère AEP.",
+      "Il n'y a aucune correspondance entre les thèmes et les projets dans le document."
+    ],
+    "correct": 0,
+    "explanation": "La page 82 associe 'Réaliser un dossier sur la civilisation marocaine' à la 4e AEP (thème UD 1 de la 4e AEP page 20), alors qu'en 6e AEP, le projet correspondant aux civilisations universelles est 'Réaliser un dossier sur les civilisations universelles'.",
+    "source": "Enseignement/apprentissage du français 2023/2024 - pages 20 et 82",
+    "doc": "Enseignement/apprentissage du français 2023/2024",
+    "level": 8
+  },
+  {
+    "id": "TZ-971",
+    "question": "Un enseignant affirme que le statut de la langue française comme langue étrangère (LE) (page 6) justifie l'abandon de toute interaction sociale en classe (page 29) au profit d'un apprentissage purement mécanique et silencieux. Comment analyser cette affirmation au regard du document ?",
+    "options": [
+      "Elle est totalement fausse : bien que le français soit enseigné comme LE (page 6), le curriculum exige explicitement la collaboration, l'interaction, la solidarisation et le groupe-classe comme cadre de médiation (page 29).",
+      "Elle est exacte car une langue étrangère ne s'apprend jamais par l'interaction.",
+      "Elle est validée par les orientations sur la lecture silencieuse rapide.",
+      "Le document ne fait aucun lien entre le statut de la langue et les méthodes d'interaction."
+    ],
+    "correct": 0,
+    "explanation": "La page 6 pose le statut de LE, mais la page 29 impose la collaboration, l'interaction et le groupe-classe. L'affirmation relève donc d'une mauvaise interprétation des textes.",
+    "source": "Enseignement/apprentissage du français 2023/2024 - pages 6 et 29",
+    "doc": "Enseignement/apprentissage du français 2023/2024",
+    "level": 8
+  },
+  {
+    "id": "TZ-972",
+    "question": "En analysant l'architecture globale du document (pages 6, 17, 20, 25, 29, 35, 49, 75, 79, 82 et 86), comment s'articulent la finalité de la communication orale et la structuration des projets de classe à travers les niveaux ? Identifiez le principe de cohérence qui gouverne cette relation.",
+    "options": [
+      "Il existe une progression concentrique : les thèmes (page 20) et les projets de classe (page 82) s'élargissent du cercle proche (soi, famille, environnement local) vers l'universel, soutenus par une maîtrise progressive du discours oral (page 35) et des exigences textuelles adaptées (page 17) dans le cadre d'un enseignement du français comme langue étrangère (page 6).",
+      "Les projets de classe sont choisis de manière totalement aléatoire sans aucun rapport avec les thèmes ni avec l'oral.",
+      "L'oral est totalement indépendant des thèmes culturels et des projets de classe.",
+      "Le cycle primaire repose sur l'étude exclusive de la grammaire abstraite sans ancrage thématique."
+    ],
+    "correct": 0,
+    "explanation": "C'est une question de synthèse ultime qui relie la finalité générale du curriculum, la progression thématique, les projets de classe et l'évolution de la communication orale.",
+    "source": "Enseignement/apprentissage du français 2023/2024 - pages 6, 17, 20, 35 et 82",
+    "doc": "Enseignement/apprentissage du français 2023/2024",
+    "level": 10
+  },
+  {
+    "id": "TZ-973",
+    "question": "Quel est le nombre de séances d'activités orales prévues par semaine pour la 2ème année de l'enseignement primaire (2ème AEP) selon le document ?",
+    "options": [
+      "2 séances",
+      "3 séances",
+      "4 séances",
+      "5 séances"
+    ],
+    "correct": 2,
+    "explanation": "Le document indique explicitement à la page 39 que la 2ème AEP bénéficie de 4 séances d'activités orales par semaine.",
+    "source": "Enseignement/apprentissage du français 2023/2024 - page 39",
+    "doc": "Enseignement/apprentissage du français 2023/2024",
+    "level": 1
+  },
+  {
+    "id": "TZ-974",
+    "question": "Parmi les éléments suivants, lequel constitue une des habiletés de base en lecture issues des méthodes syllabiques ?",
+    "options": [
+      "La stratégie d'anticipation par la formulation d'hypothèses",
+      "La conscience phonologique",
+      "La lecture silencieuse rapide et sélective",
+      "La prosodie et la lecture courante"
+    ],
+    "correct": 1,
+    "explanation": "La conscience phonologique est explicitement citée à la page 49 comme l'une des habiletés de base en lecture des méthodes syllabiques, tandis que les autres options relèvent de la méthode interactive.",
+    "source": "Enseignement/apprentissage du français 2023/2024 - page 49",
+    "doc": "Enseignement/apprentissage du français 2023/2024",
+    "level": 2
+  },
+  {
+    "id": "TZ-975",
+    "question": "Un enseignant de 4ème AEP constate que plusieurs de ses élèves lisent de manière saccadée et marquent mal les pauses. En s'appuyant sur les orientations de la page 51, quelle action pédagogique doit-il privilégier pour développer leur fluidité ?",
+    "options": [
+      "Leur demander de réciter l'alphabet en entier le plus rapidement possible",
+      "Segmenter une phrase en fonction du sens et faire lire en respectant la ponctuation",
+      "Leur imposer une lecture silencieuse intégrale de textes longs sans aucune explication préalable",
+      "Multiplier les dictées de mots isolés pour mémoriser l'orthographe lexicale"
+    ],
+    "correct": 1,
+    "explanation": "La page 51 indique clairement que pour développer la fluidité chez les lecteurs non fluides, il faut segmenter une phrase en fonction du sens et faire lire en respectant la ponctuation.",
+    "source": "Enseignement/apprentissage du français 2023/2024 - page 51",
+    "doc": "Enseignement/apprentissage du français 2023/2024",
+    "level": 5
+  },
+  {
+    "id": "TZ-976",
+    "question": "Un enseignant de 3ème AEP souhaite planifier la production écrite de ses élèves en s'appuyant sur les exigences de fin de niveau de la page 17. Parmi les propositions suivantes, laquelle correspond exactement aux compétences attendues en écriture pour ce niveau ?",
+    "options": [
+      "Rédiger de longs argumentaires complexes et des dissertations littéraires",
+      "Écrire des graphèmes simples, des syllabes, des mots ayant un sens, copier des textes courts (deux ou trois phrases simples) et/ou les écrire sous dictée",
+      "Composer des poèmes en vers libres avec des figures de style élaborées",
+      "Traduire des textes de la langue maternelle vers le français sans aide"
+    ],
+    "correct": 1,
+    "explanation": "La page 17 stipule que pour la 3e AEP, l'élève doit être capable d'écrire des graphèmes simples, des syllabes, des mots ayant un sens, de copier des textes courts (deux ou trois phrases simples) et/ou de les écrire sous dictée.",
+    "source": "Enseignement/apprentissage du français 2023/2024 - page 17",
+    "doc": "Enseignement/apprentissage du français 2023/2024",
+    "level": 6
+  },
+  {
+    "id": "TZ-977",
+    "question": "Dans une classe de 5ème AEP, un enseignant souhaite organiser le temps d'apprentissage de l'écrit pour une unité didactique. En se référant au volume horaire officiel de la page 75, comment doit-il répartir ses séances de production de l'écrit ?",
+    "options": [
+      "Une séance unique par semaine répartie sur l'ensemble de l'année",
+      "1 séance de production de l'écrit la première semaine et 2 séances de production de l'écrit la deuxième semaine",
+      "3 séances par semaine réparties de manière égale entre la grammaire et la dictée",
+      "Aucune séance spécifique, l'écrit étant uniquement travaillé à travers la lecture"
+    ],
+    "correct": 1,
+    "explanation": "La page 75 précise que pour les 5e et 6e AEP, le volume de production de l'écrit est d'une séance de production de l'écrit la première semaine (semaine 1) et de deux séances la deuxième semaine (semaine 2).",
+    "source": "Enseignement/apprentissage du français 2023/2024 - page 75",
+    "doc": "Enseignement/apprentissage du français 2023/2024",
+    "level": 7
+  },
+  {
+    "id": "TZ-978",
+    "question": "Un enseignant met en place un soutien pédagogique immédiat en classe pour répondre aux difficultés constatées lors des séquences d'apprentissage. D'après le dispositif de la page 86, quelle est la caractéristique temporelle et opérationnelle de ce soutien immédiat par rapport au soutien différé ?",
+    "options": [
+      "Il s'effectue uniquement lors des semaines de soutien de fin de période et mobilise toute l'équipe pédagogique de l'école",
+      "Il accompagne directement le processus d'enseignement/apprentissage pour répondre aux besoins identifiés lors des séquences, contrairement au soutien différé qui s'effectue lors des semaines de soutien propres à chaque unité",
+      "Il est réservé exclusivement aux élèves présentant des difficultés majeures et persistantes dans le cadre du projet d'établissement",
+      "Il se substitue totalement aux cours réguliers en remplaçant les séances de lecture et d'oral"
+    ],
+    "correct": 1,
+    "explanation": "La page 86 distingue clairement le soutien immédiat qui accompagne le processus d'enseignement/apprentissage pour répondre aux besoins des séquences, tandis que le soutien différé s'effectue lors des semaines de soutien propres à chaque unité ou période et fait intervenir l'équipe pédagogique.",
+    "source": "Enseignement/apprentissage du français 2023/2024 - page 86",
+    "doc": "Enseignement/apprentissage du français 2023/2024",
+    "level": 9
+  },
+  {
+    "id": "TZ-979",
+    "question": "Dans le cadre de la différenciation pédagogique et du centrage sur l'apprenant (page 29), un enseignant souhaite concevoir une activité de communication orale. Parmi les démarches suivantes, laquelle intègre le plus fidèlement l'ensemble des principes requis par le document ?",
+    "options": [
+      "Imposer un texte rigide à mémoriser par cœur en silence sans interaction entre pairs",
+      "Choisir une situation de communication variée, proposer des activités intégrées avec une utilisation ludique de la langue, un décloisonnement et considérer le groupe-classe comme un cadre social d'interaction et de médiation",
+      "Travailler exclusivement sur des fiches d'exercices individuelles écrites sans jamais recourir à l'oral ni aux échanges",
+      "Laisser les élèves entièrement libres sans aucune guidance ni situation de communication structurée"
+    ],
+    "correct": 1,
+    "explanation": "La page 29 définit la différenciation, le centrage sur l'apprenant et l'interaction à travers le choix de situations de communication variées, la pratique d'activités intégrées, l'utilisation ludique de la langue, le décloisonnement et le groupe-classe comme cadre de médiation.",
+    "source": "Enseignement/apprentissage du français 2023/2024 - page 29",
+    "doc": "Enseignement/apprentissage du français 2023/2024",
+    "level": 9
+  },
+  {
+    "id": "TZ-980",
+    "question": "Un enseignant souhaite concevoir une séquence d'activités orales pour la 3e AEP en reliant les thèmes annuels (page 20) et les compétences de communication orale (pages 17 et 35). Quelle démarche globale et cohérente doit-il adopter ?",
+    "options": [
+      "Aborder des thèmes du niveau 6e AEP (comme les civilisations universelles) en exigeant des productions écrites complexes",
+      "Ancrer les situations de communication dans le thème de l'unité (ex: La vie associative ou Le monde des amis) pour amener l'élève à utiliser les actes de langage étudiés, à exprimer ses besoins et à produire un discours court et simple en rapport avec son environnement",
+      "Ignorer les thèmes officiels et se consacrer uniquement à la mémorisation de règles de grammaire décontextualisées",
+      "Faire réciter des poèmes classiques sans lien avec les situations de communication de l'environnement local"
+    ],
+    "correct": 1,
+    "explanation": "La cohérence du curriculum repose sur l'articulation entre les thèmes de l'unité (page 20), les compétences visées (page 17 : environnement local, énoncés courts) et les habiletés orales (page 35 : actes de langage, besoins communicatifs).",
+    "source": "Enseignement/apprentissage du français 2023/2024 - pages 17, 20, 35",
+    "doc": "Enseignement/apprentissage du français 2023/2024",
+    "level": 9
+  },
+  {
+    "id": "TZ-981",
+    "question": "En croisant les tableaux thématiques des unités (page 20) et la liste des projets de classe (page 82) avec les compétences terminales du cycle (page 17), comment s'articule la conception curriculaire des projets de classe par rapport aux thèmes et aux niveaux d'apprentissage ?",
+    "options": [
+      "Les projets de classe sont choisis de manière totalement aléatoire et indépendante des thèmes abordés dans les unités didactiques",
+      "Chaque projet de classe (comme la réalisation d'un dossier sur la civilisation marocaine en 4e AEP ou d'un journal sur les Marocains du monde en 5e AEP) est en parfaite adéquation thématique et langagière avec le niveau de l'élève et l'environnement visé (local, régional, national ou universel)",
+      "Les projets de classe consistent uniquement en des exposés oraux sans aucune production écrite ni réalisation concrète",
+      "Les projets de classe sont réservés exclusivement à la fin du cycle primaire sans lien avec les apprentissages hebdomadaires"
+    ],
+    "correct": 1,
+    "explanation": "La mise en relation de la page 20 (thèmes), de la page 82 (projets de classe) et de la page 17 (compétences et ancrage environnemental) démontre une cohérence structurelle rigoureuse où chaque projet matérialise concrètement les thèmes et les compétences de communication du niveau concerné.",
+    "source": "Enseignement/apprentissage du français 2023/2024 - pages 17, 20, 82",
+    "doc": "Enseignement/apprentissage du français 2023/2024",
+    "level": 10
+  },
+  {
+    "id": "TZ-982",
+    "question": "En examinant la progression des compétences terminales du cycle primaire entre la 3e AEP et la 5e AEP (page 17), comment évolue l'élargissement de l'environnement de communication dans lequel l'apprenant doit mobiliser ses savoirs ?",
+    "options": [
+      "Il se restreint progressivement pour ne se concentrer que sur l'individu seul sans interaction",
+      "Il s'élargit de soi-même et de l'environnement local (et régional en 4e) en 3e AEP, pour englober l'environnement local, régional, national (et universel en 6e AEP) en 5e AEP",
+      "Il reste strictement limité à l'espace de la classe durant toutes les années du primaire",
+      "Il passe directement du niveau local au niveau interplanétaire sans étapes intermédiaires"
+    ],
+    "correct": 1,
+    "explanation": "La page 17 détaille précisément l'évolution géographique et sociale des situations de communication : de l'environnement local et régional (3e-4e AEP) vers l'environnement local, régional, national et universel (5e-6e AEP), illustrant la progression de la complexité contextuelle.",
+    "source": "Enseignement/apprentissage du français 2023/2024 - page 17",
+    "doc": "Enseignement/apprentissage du français 2023/2024",
+    "level": 10
+  },
+  {
+    "id": "TZ-983",
+    "question": "Un enseignant de 4ème AEP constate que plusieurs de ses élèves lisent de manière saccadée, manquent de fluidité et marquent mal les pauses. En s'appuyant sur les orientations de la page 51, quelle stratégie pédagogique précise doit-il appliquer en priorité pour remédier à cette difficulté ?",
+    "options": [
+      "Leur demander de lire uniquement des textes longs en silence pour deviner le sens global sans se soucier de la ponctuation.",
+      "Segmenter une phrase en fonction du sens et faire lire les élèves en respectant strictement la ponctuation.",
+      "Leur imposer l'apprentissage par cœur de listes de mots isolés sans contexte syntaxique.",
+      "Ignorer cette difficulté passagère en attendant que la fluidité s'installe d'elle-même avec l'âge."
+    ],
+    "correct": 1,
+    "explanation": "La page 51 stipule explicitement que pour développer la fluidité chez les lecteurs non fluides, il faut segmenter une phrase en fonction du sens et faire lire en respectant la ponctuation. Les autres options contredisent cette orientation méthodologique.",
+    "source": "Enseignement/apprentissage du français 2023/2024 - page 51",
+    "doc": "Enseignement/apprentissage du français 2023/2024",
+    "level": 9
+  },
+  {
+    "id": "TZ-984",
+    "question": "En analysant de manière globale l'architecture du curriculum du français au cycle primaire (pages 17, 25, 75 et 86), comment s'articulent la progression des compétences de communication, la pondération des domaines d'apprentissage et la gestion de l'échec scolaire à travers les niveaux ?",
+    "options": [
+      "L'enseignement repose sur une diminution constante de l'oral au profit exclusif de la grammaire abstraite dès la 1ère AEP, sans dispositif de soutien préventif.",
+      "L'environnement de communication s'élargit progressivement (de soi-même vers l'universel), le poids relatif de l'oral évolue par rapport à l'écrit selon les paliers (ex: 40% en 2e-3e AEP), et le soutien pédagogique combine des interventions immédiates et différées pour prévenir l'échec.",
+      "Les projets de classe sont totalement indépendants des thèmes annuels et les volumes horaires de production écrite sont identiques du CP au CM2.",
+      "Le statut du français comme langue étrangère (LE) impose un apprentissage mécanique fondé uniquement sur la copie de textes longs dès la 3e AEP."
+    ],
+    "correct": 1,
+    "explanation": "Cette réponse de synthèse relie correctement l'élargissement de l'environnement de communication (page 17), la pondération des volumes horaires (page 25 où l'oral est à 40% pour 2e-3e AEP) et la structure du soutien pédagogique préventif et curatif (page 86). Les autres options contiennent des incoh",
+    "source": "Enseignement/apprentissage du français 2023/2024 - pages 17, 25, 75, 86",
+    "doc": "Enseignement/apprentissage du français 2023/2024",
+    "level": 10
+  },
+  {
+    "id": "TZ-985",
+    "question": "Un enseignant souhaite évaluer la fluidité de lecture d'un groupe d'élèves en 4e AEP qui lisent de manière saccadée et marquent mal les pauses. D'après les orientations du document, quelle stratégie concrète doit-il appliquer en priorité pour remédier à cette difficulté ?",
+    "options": [
+      "Leur demander de mémoriser l'intégralité du texte par cœur avant de le réciter à haute voix.",
+      "Segmenter une phrase en fonction du sens et faire lire en respectant la ponctuation.",
+      "Leur faire recopier le texte plusieurs fois pour s'imprégner de l'orthographe des mots.",
+      "Multiplier les exercices exclusifs sur les phonèmes et la conscience phonologique."
+    ],
+    "correct": 1,
+    "explanation": "Pour développer la fluidité chez les lecteurs non fluides, le document préconise explicitement de segmenter une phrase en fonction du sens et de faire lire en respectant la ponctuation. Les autres options ne ciblent pas directement le problème de prosodie et de rythme de lecture.",
+    "source": "Enseignement/apprentissage du français 2023/2024 - page 51",
+    "doc": "Enseignement/apprentissage du français 2023/2024",
+    "level": 3
+  },
+  {
+    "id": "TZ-986",
+    "question": "Dans une classe de 5ème AEP, un enseignant souhaite organiser le temps d'apprentissage de l'écrit et planifie uniformément 2 séances de production de l'écrit chaque semaine pour toutes les semaines de l'année. En se référant au volume horaire officiel, quelle est l'anomalie de cette planification ?",
+    "options": [
+      "Il n'y a aucune anomalie, le volume est exactement de 2 séances par semaine de manière constante.",
+      "Le curriculum prévoit 1 seule séance de production de l'écrit par semaine pour l'ensemble du cycle primaire sans distinction.",
+      "La planification officielle alterne entre 1 séance de production de l'écrit la première semaine et 2 séances la deuxième semaine de l'unité.",
+      "Il est interdit de faire de la production de l'écrit en 5ème AEP car cela est réservé exclusivement au cycle secondaire."
+    ],
+    "correct": 2,
+    "explanation": "Le document indique clairement que le volume pour la production de l'écrit en 5ème/6ème AEP est de 1 séance pour la semaine 1 et de 2 séances pour la semaine 2, ce qui rend une planification fixe de 2 séances chaque semaine non conforme. La bonne réponse identifie cette alternance spécifique.",
+    "source": "Enseignement/apprentissage du français 2023/2024 - page 75",
+    "doc": "Enseignement/apprentissage du français 2023/2024",
+    "level": 9
+  },
+  {
+    "id": "TZ-987",
+    "question": "En analysant l'évolution des compétences terminales du cycle primaire entre la 3e AEP et la 5e AEP (page 17) et la répartition du temps d'apprentissage (page 25), quelle articulation logique peut-on établir entre l'élargissement de l'environnement de communication et la pondération des domaines ?",
+    "options": [
+      "L'élargissement progressif de l'environnement (du local vers l'universel) s'accompagne d'un rééquilibrage de la pondération où la part de l'oral diminue au profit de l'écrit entre le bloc 2e-3e AEP et les niveaux 5e-6e AEP.",
+      "La pondération horaire de l'oral reste fixe à 40% dans tous les niveaux tandis que l'environnement de communication se restreint exclusivement à la sphère familiale.",
+      "L'introduction de l'environnement universel en 3e AEP justifie la suppression totale des activités d'écriture au profit d'un enseignement exclusivement oral.",
+      "La diminution de la part de l'écrit à 10% en fin de cycle permet de se concentrer uniquement sur les situations de communication en rapport avec soi-même."
+    ],
+    "correct": 0,
+    "explanation": "Le texte montre que l'environnement de communication s'élargit progressivement (local, régional, national, universel), tandis que la répartition du temps indique que la compréhension et production de l'oral passe de 40% (2e-3e AEP) à 30% (5e-6e AEP), laissant une place plus importante à l'écrit (qui",
+    "source": "Enseignement/apprentissage du français 2023/2024 - pages 17 et 25",
+    "doc": "Enseignement/apprentissage du français 2023/2024",
+    "level": 10
+  },
+  {
+    "id": "TZ-988",
+    "question": "Dans le cadre de la mise en œuvre du soutien pédagogique (page 86), un enseignant souhaite articuler l'intervention préventive en classe et la remédiation institutionnelle pour un élève en difficulté persistante. Quelle démarche complexe reflète fidèlement la procédure décrite dans le document ?",
+    "options": [
+      "Il associe un soutien immédiat accompagnant le processus d'enseignement/apprentissage pour prévenir l'échec, et recourt, en cas de difficultés majeures et persistantes, à un soutien différé/périodique impliquant toute l'équipe pédagogique lors des semaines dédiées.",
+      "Il attend systématiquement la fin de l'année scolaire pour appliquer le soutien immédiat sous forme de projet d'établissement à l'ensemble de la classe sans diagnostic préalable.",
+      "Il se limite exclusivement au soutien différé pendant les séquences d'apprentissage quotidiennes pour remplacer totalement les activités de lecture.",
+      "Il confie l'intégralité du soutien immédiat à l'administration de l'AREF tout en supprimant la remédiation en classe."
+    ],
+    "correct": 0,
+    "explanation": "Le soutien pédagogique comporte une dimension préventive (soutien immédiat qui accompagne le processus d'apprentissage) et curative (soutien différé/périodique lors des semaines de soutien ou du projet d'établissement, faisant appel à l'équipe pédagogique pour les difficultés majeures et persistante",
+    "source": "Enseignement/apprentissage du français 2023/2024 - page 86",
+    "doc": "Enseignement/apprentissage du français 2023/2024",
+    "level": 10
+  },
+  {
+    "id": "TZ-989",
+    "question": "En 1ère et 2ème année de l'enseignement primaire (1ère et 2ème AEP), quelle est l'une des compétences de production écrite attendue de l'apprenant selon le profil de sortie ?",
+    "options": [
+      "Rédiger un paragraphe argumentatif complet",
+      "Copier des textes courts (deux ou trois phrases simples) et/ou les écrire sous dictée",
+      "Produire un article de presse court avec un titre et des sous-titres",
+      "Rédiger un compte rendu de lecture de dix lignes"
+    ],
+    "correct": 1,
+    "explanation": "Le profil de sortie de la 1ère et 2ème AEP indique explicitement que l'élève doit être capable de copier des textes courts (deux ou trois phrases simples) et/ou les écrire sous dictée. Les autres options exigent des compétences rédactionnelles trop avancées pour ce niveau.",
+    "source": "Enseignement/apprentissage du français 2023/2024 - page 18",
+    "doc": "Enseignement/apprentissage du français 2023/2024",
+    "level": 4
+  },
+  {
+    "id": "TZ-990",
+    "question": "Parmi les capacités visées par la compréhension et la réception de l'oral, laquelle est explicitement mentionnée dans le document ?",
+    "options": [
+      "Rédiger un résumé écrit d'un conte écouté",
+      "Écouter attentivement autrui",
+      "Traduire un texte oral en une autre langue",
+      "Corriger la syntaxe d'un locuteur natif"
+    ],
+    "correct": 1,
+    "explanation": "Le document liste explicitement « Ecouter attentivement autrui » parmi les capacités visées par la compréhension/réception de l'oral. Les autres choix relèvent de l'écrit, de la traduction ou de la métalinguistique qui ne figurent pas dans cette liste.",
+    "source": "Enseignement/apprentissage du français 2023/2024 - page 32",
+    "doc": "Enseignement/apprentissage du français 2023/2024",
+    "level": 4
+  },
+  {
+    "id": "TZ-991",
+    "question": "Selon les orientations relatives aux habiletés de base en lecture, quelle activité fait partie de celles permettant d'acquérir une lecture autonome au cycle initial ?",
+    "options": [
+      "La rédaction de dissertations littéraires",
+      "L'analyse grammaticale approfondie des subordonnées",
+      "Les activités de discrimination auditive",
+      "La traduction simultanée de textes complexes"
+    ],
+    "correct": 2,
+    "explanation": "Les activités de discrimination auditive sont explicitement répertoriées parmi les habiletés de base indispensables pour devenir un lecteur autonome. Les autres propositions correspondent à des niveaux scolaires ou des tâches beaucoup plus avancées.",
+    "source": "Enseignement/apprentissage du français 2023/2024 - page 47",
+    "doc": "Enseignement/apprentissage du français 2023/2024",
+    "level": 4
+  },
+  {
+    "id": "TZ-992",
+    "question": "Parmi les activités intégrées mentionnées pour renforcer les apprentissages, laquelle figure explicitement dans la liste du document ?",
+    "options": [
+      "Le codage informatique",
+      "Le théâtre",
+      "La dissertation philosophique",
+      "L'athlétisme de compétition"
+    ],
+    "correct": 1,
+    "explanation": "Le document cite explicitement le théâtre, le conte, les chansons et les jeux éducatifs parmi les activités intégrées recommandées. Le codage, la dissertation et l'athlétisme n'y figurent pas.",
+    "source": "Enseignement/apprentissage du français 2023/2024 - page 87",
+    "doc": "Enseignement/apprentissage du français 2023/2024",
+    "level": 4
+  },
+  {
+    "id": "TZ-993",
+    "question": "Lors d'une séance de communication orale, un enseignant remarque que ses élèves ont des difficultés à comprendre le sens d'un énoncé oral. En se référant aux stratégies de facilitation de l'enseignant, que doit-il utiliser en priorité ?",
+    "options": [
+      "Des listes de vocabulaire abstrait à mémoriser par cœur",
+      "Des illustrations, des objets, des gestes et des mimiques",
+      "Des textes écrits complexes sans aucune image",
+      "Des consignes données exclusivement en silence"
+    ],
+    "correct": 1,
+    "explanation": "Le texte indique clairement que l'enseignant facilite la compréhension en ayant recours aux illustrations, aux objets, au contexte, aux gestes, aux expressions du visage et aux mimiques. Les autres choix contredisent cette approche d'étayage visuel et gestuel.",
+    "source": "Enseignement/apprentissage du français 2023/2024 - page 36",
+    "doc": "Enseignement/apprentissage du français 2023/2024",
+    "level": 5
+  },
+  {
+    "id": "TZ-994",
+    "question": "Un enseignant souhaite évaluer la compréhension d'un texte par ses élèves en utilisant les stratégies de la méthode interactive de lecture. Quelle action pertinente doit-il proposer aux élèves avant la lecture approfondie ?",
+    "options": [
+      "Leur demander de réciter l'alphabet à l'envers",
+      "Formuler des hypothèses sur le sens du texte en utilisant le paratexte",
+      "Leur interdire totalement de regarder les illustrations ou le titre",
+      "Leur faire copier le texte entier sans le lire"
+    ],
+    "correct": 1,
+    "explanation": "Parmi les stratégies de compréhension de l'écrit, le document mentionne d'entrer dans un texte en utilisant le paratexte et de formuler des hypothèses sur le sens du texte. Les autres propositions sont contre-productives ou sans rapport avec la lecture interactive.",
+    "source": "Enseignement/apprentissage du français 2023/2024 - page 50",
+    "doc": "Enseignement/apprentissage du français 2023/2024",
+    "level": 5
+  },
+  {
+    "id": "TZ-995",
+    "question": "Dans le cadre de la mise en œuvre du projet de classe, un enseignant souhaite organiser le travail de ses élèves conformément aux principes méthodologiques du document. Quelle modalité de travail doit-il privilégier ?",
+    "options": [
+      "Une démarche strictement individuelle où chaque élève travaille seul dans son coin",
+      "Une démarche collective favorisant l'avancement aux rythmes des apprenants pour éviter l'échec",
+      "Un travail compétitif chronométré sans interaction entre pairs",
+      "Une exécution mécanique de dictées sans lien avec une tâche concrète"
+    ],
+    "correct": 1,
+    "explanation": "Le projet de classe repose explicitement sur une démarche collective plutôt qu'individuelle et sur l'avancement aux rythmes des apprenants pour éviter l'échec. Le travail individuel isolé ou purement compétitif va à l'encontre de cette approche actionnelle.",
+    "source": "Enseignement/apprentissage du français 2023/2024 - page 80",
+    "doc": "Enseignement/apprentissage du français 2023/2024",
+    "level": 5
+  },
+  {
+    "id": "TZ-996",
+    "question": "Un enseignant de français au primaire souhaite caractériser la nature de la langue enseignée selon le document de référence. Comment doit-il définir le statut de la langue française au Maroc ?",
+    "options": [
+      "Comme une langue maternelle apprise dans un bain linguistique permanent et naturel",
+      "Comme une langue non maternelle apprise en dehors d'un contexte de pratique sociale régulière et permanente",
+      "Comme une langue seconde maîtrisée spontanément dès la naissance par tous les apprenants",
+      "Comme une langue morte utilisée uniquement pour des textes anciens"
+    ],
+    "correct": 1,
+    "explanation": "Le document définit le statut de la langue française au Maroc comme toute langue non maternelle qui s'apprend en dehors d'un contexte de pratique sociale régulière et permanente. Les autres options contredisent cette définition institutionnelle de la distance linguistique et culturelle.",
+    "source": "Enseignement/apprentissage du français 2023/2024 - page 7",
+    "doc": "Enseignement/apprentissage du français 2023/2024",
+    "level": 6
+  },
+  {
+    "id": "TZ-997",
+    "question": "Pour organiser l'étude de la langue (grammaire, conjugaison, orthographe et lexique) en 5ème et 6ème AEP, comment le document préconise-t-il de structurer les apprentissages ?",
+    "options": [
+      "Uniquement par des leçons magistrales abstraites sans aucun lien avec les autres activités",
+      "Par des séances spécifiques pour l'étude explicite des règles associées à des exercices intégrés en lien avec l'oral, la lecture et l'écrit",
+      "En réservant l'étude de la langue exclusivement aux devoirs surveillés à la maison",
+      "En supprimant toute règle grammaticale au profit de la mémorisation de listes de mots"
+    ],
+    "correct": 1,
+    "explanation": "Le document précise que l'étude de la langue s'articule autour de séances spécifiques pour l'étude explicite des règles et d'exercices intégrés en lien avec l'oral, la lecture, la production de l'écrit et le projet de classe. Cela évite le cloisonnement des savoirs linguistiques.",
+    "source": "Enseignement/apprentissage du français 2023/2024 - page 77",
+    "doc": "Enseignement/apprentissage du français 2023/2024",
+    "level": 6
+  },
+  {
+    "id": "TZ-998",
+    "question": "Lors d'une séance d'activités orales, un enseignant remarque que ses élèves ont des difficultés à comprendre le sens d'un énoncé oral. En se référant aux orientations du document, que doit utiliser l'enseignant en priorité pour faciliter leur compréhension ?",
+    "options": [
+      "Des exercices écrits de grammaire et de conjugaison",
+      "Des illustrations, des objets, le contexte, des gestes et des mimiques",
+      "Une lecture silencieuse et prolongée d'un texte long",
+      "Des dictées de mots isolés sans support visuel"
+    ],
+    "correct": 1,
+    "explanation": "L'enseignant facilite la compréhension des élèves en ayant recours aux illustrations, aux objets, au contexte, aux gestes, aux expressions du visage, aux mimiques et en jouant sur les intonations. Les autres options ne correspondent pas aux stratégies de facilitation orale mentionnées dans le texte.",
+    "source": "Enseignement/apprentissage du français 2023/2024 - page 36",
+    "doc": "Enseignement/apprentissage du français 2023/2024",
+    "level": 6
+  }
+]
